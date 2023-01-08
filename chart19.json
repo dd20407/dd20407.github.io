@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "data": {"url":"https://raw.githubusercontent.com/jgoodall/us-maps/master/geojson/state.geo.json",
+  "format": {
+    "property":"features"
+}},
+
+    "projection": {
+      "type": "albersUsa"
+    },
+      
+      "height": 600,
+      "width": 600,
+
+      "transform": [
+        {"filter": "datum.Year == yearSelector"},
+        {"lookup":"State",
+        
+          "from":{
+            "data":{
+              "url":"https://raw.githubusercontent.com/dd20407/dd20407.github.io/main/AQI%20data%201998-2022.csv"},
+              "format":{"property":"features"},
+              "key":"properties.NAME10",
+              "fields":["properties","type","geometry"]
+          }}
+      ],
+
+      "params": [
+        {
+          "name": "yearSelector", "value": 2003,
+          "bind": {
+            "input": "range",
+            "min": 1998,
+            "max": 2022,
+            "step": 1,
+            "name": "Year:"}}],
+
+
+  "mark":{ 
+    "type": "geoshape",
+    "stroke":"black",
+    "strokeWidth":0.5
+    },
+
+  "encoding": {
+    "tooltip":[
+      {"field":"properties.NAME10",
+      "type": "nominal",
+      "title": "State"}
+    ],
+    
+
+    "color":{
+      "field":"2021",
+      "type":"quantitative",
+      "scale": {
+          "range": ["green","orange","red"]}
+    }},
+
+    "interactive":{
+      "selection": {
+        "year": {
+          "type": "single",
+          "bind": {"input": "range", "min": 1998, "max": 2022, "step": 1}
+        }
+      }
+    }
+    
+  }

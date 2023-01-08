@@ -1,0 +1,38 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "data":{"url": "https://raw.githubusercontent.com/dd20407/dd20407.github.io/main/data_IMF_creditOutstanding.csv"},
+  "transform": [{"calculate": "datum.Totals/1000000000", "as": "billions"}],
+
+  "title": {
+    "text": "Total IMF Credit Outstanding: 1984 - 2022 (SDRs)",
+    "subtitle": "Lending Outstanding for all members, (SDRs in billions). Source: IMF",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"},
+
+    "height": 300,
+    "width": 300,
+
+   
+  "mark": {
+    "type": "bar",
+    "color": "#c60000"},
+
+    "encoding": {
+      "x": {
+        "field": "Date",
+        "type": "temporal"
+            },
+
+
+      "y": {
+        "field": "billions",
+        "type": "quantitative"
+        }
+      }
+    
+}
+

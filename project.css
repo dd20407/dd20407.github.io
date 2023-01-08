@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;1,700&family=Raleway:wght@800&family=Roboto:wght@300&display=swap');
+
+body {
+    background-color: rgb(80,200,120);
+  }
+
+  .buttons {
+    background-color: rgba(0,0,0,0);
+    border:rgba(0,0,0,0);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    margin: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+    justify-content: center;
+    font-family: 'Roboto';
+    font-weight: 700
+
+  }
+  .buttons:hover {
+    color: black;
+    background-color: rgb(107, 229, 148);
+  }
+
+.content {
+    margin:auto;
+    margin-top:20px;
+    text-align: center;
+    background-color: rgb(124, 232, 139);
+    max-width: 1000px;
+    border-radius: 10px;
+    font-family:'Roboto';
+    padding:40px;
+}
+
+
+.chart{
+    overflow:auto;
+    background-color: white;
+    width: auto;
+    border-style:solid;
+    border-color: #000000;
+    margin:20px;
+    border-width: 5px;
+    border-radius: 8px;
+}
+
+.chart:hover{
+  transform: scale(1.1);
+  transition: transform 0.5s;
+}
+
+
+.map{
+  overflow:auto;
+  background-color: white;
+  width: auto;
+  border-style:solid;
+  border-color: #000000;
+  margin:20px;
+  border-width: 5px;
+  border-radius: 8px;
+}
+
+.title{
+   color:black;
+   font-weight:700;
+   margin:auto;
+   margin-top:10px;
+   text-align: center;
+   background-color: rgb(124, 232, 139);
+   max-width: 600px;
+   border-radius: 10px;
+   font-family:'Merriweather';
+   Padding:10px;
+}

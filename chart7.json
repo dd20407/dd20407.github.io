@@ -1,0 +1,24 @@
+ {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/dd20407/dd20407.github.io/main/NHL_data(2).csv"},
+
+    "title": {
+        "text": "Shots taken and goals scored by team",
+        "subtitle": "For the 22/23 season",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "start",
+        "color": "black"},
+
+    "height": 300,
+    "width": 300,
+
+    "mark": {
+        "type": "point",
+        "color": "#c60000"},
+
+    "encoding": {
+      "x": {"field": "Goals scored", "type": "quantitative"},
+      "y": {"field": "Shots taken", "type": "quantitative"}
+    }
+  }

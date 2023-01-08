@@ -1,0 +1,24 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "data": {"url": "https://raw.githubusercontent.com/dd20407/dd20407.github.io/main/MGRU.json",
+    "format":{
+      "type":"json",
+      "property":"years"}},
+
+    "title": {
+        "text": "Unpaid male family workers, UK",
+        "fontSize":10,
+        "anchor": "start",
+        "color": "black"},
+
+        "height": 130,
+        "width": 130,
+
+    "mark": "line",
+    
+    "encoding": {
+      "x": {"field": "date", "type": "temporal","title":"Year"},
+      "y": {"field": "value", "type": "quantitative","title":"Unpaid male family workers, 1000s"}
+    }
+  }

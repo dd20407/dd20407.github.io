@@ -1,0 +1,24 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "data": {"url": "https://raw.githubusercontent.com/dd20407/dd20407.github.io/main/ALY9.json",
+    "format":{
+      "type":"json",
+      "property":"years"}},
+
+    "title": {
+        "text": "Business size: 2500+ employees",
+        "fontSize":10,
+        "anchor": "start",
+        "color": "black"},
+
+        "height": 130,
+        "width": 130,
+
+    "mark": "line",
+    
+    "encoding": {
+      "x": {"field": "date", "type": "temporal","title":"Year"},
+      "y": {"field": "value", "type": "quantitative","title":"Job vacancies, 1000s"}
+    }
+  }

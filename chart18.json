@@ -1,0 +1,57 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "data": {"url": "https://raw.githubusercontent.com/rowanhogan/australian-states/master/states.geojson",
+    "format":{
+      "property":"features"}},
+
+      "projection": {
+        "type": "mercator"
+      },
+        
+        "height": 300,
+        "width": 300,
+
+        "title": {
+            "text": "Robberies in Australia by state, 2021",
+            "subtitle":"Data source: abs.gov.au",
+            "subtitleFontSize":8,
+            "fontSize":9,
+            "anchor": "start",
+            "color": "black"},
+
+
+        "transform": [
+          {"lookup":"properties.STATE_NAME",
+          
+            "from":{
+              "data":{
+                "url":"https://raw.githubusercontent.com/dd20407/dd20407.github.io/main/Australia%20robberies.csv"},
+                "key":"State",
+                "fields":["2021"]
+            }
+          }
+        ],
+
+    "mark":{ 
+      "type": "geoshape",
+      "stroke":"black",
+      "strokeWidth":0.5
+      },
+
+    "encoding": {
+      "tooltip":[
+            {"field":"properties.STATE_NAME",
+              "type": "nominal",
+              "title":"State"},
+            {"field":"2021","title":"Robberies"}
+            ],
+
+      "color":{
+        "field":"2021",
+        "type":"quantitative",
+        "scale": {
+            "range": ["white","orange","red"]}
+    }
+    }
+}
