@@ -1,0 +1,66 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "data": {"url":"https://raw.githubusercontent.com/dd20407/dd20407.github.io/main/AQI%20data%201998-2022(3).csv",
+  "format": {
+    "type":"csv"
+}},
+
+    "projection": {
+      "type": "albersUsa"
+    },
+      
+      "height": 600,
+      "width": 600,
+
+"params": [
+  {
+    "name": "years",
+    "value": 1998,
+    "bind": {
+      "input": "range",
+      "min": 1998,
+      "max": 2022,
+      "step": 1,
+      "name": "Year"}}],
+
+    "transform": [
+    {"filter":"datum.year == years"},
+    {"lookup":"State",
+    
+      "from":{
+        "data":{
+          "url":"https://raw.githubusercontent.com/jgoodall/us-maps/master/geojson/state.geo.json",
+          "format":{"property":"features"}},
+          "key":"properties.NAME10",
+          "fields": ["properties", "type", "geometry"]
+      }
+    }
+  ],
+
+
+
+  "mark":{ 
+    "type": "geoshape",
+    "stroke":"black",
+    "strokeWidth":0.7
+    },
+
+
+  "encoding": {
+    "tooltip":[
+      {"field":"properties.NAME10",
+      "type": "nominal",
+      "title": "State"},
+      {"field":"Median AQI",
+      "type": "nominal",
+      "title": "AQI"}
+    ],
+    "color":{
+    "field":"Median AQI",
+    "title":"AQI",
+    "type":"quantitative",
+    "scale": {"domain": [14,55], "range": ["green", "yellow", "red"]}
+  
+    
+  }}}
