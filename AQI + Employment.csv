@@ -1,0 +1,751 @@
+,State,Median AQI,Year,Units,Value
+2,Alabama,49.8,2007,Thousands of jobs,1786.5
+12,Alaska,16.9,2007,Thousands of jobs,273.2
+22,Arizona,47.5,2007,Thousands of jobs,2494.5
+32,Arkansas,44.8,2007,Thousands of jobs,1093.5
+42,California,48.9,2007,Thousands of jobs,14968.1
+52,Colorado,37.4,2007,Thousands of jobs,2187.3
+62,Connecticut,41.2,2007,Thousands of jobs,1590.1
+72,Delaware,50.3,2007,Thousands of jobs,400.5
+82,Florida,40.8,2007,Thousands of jobs,7483.7
+92,Georgia,49.8,2007,Thousands of jobs,3773.2
+102,Hawaii,15.7,2007,Thousands of jobs,560.1
+112,Idaho,27.6,2007,Thousands of jobs,621.0
+122,Illinois,42.5,2007,Thousands of jobs,5492.3
+132,Indiana,50.6,2007,Thousands of jobs,2734.3
+142,Iowa,41.4,2007,Thousands of jobs,1382.7
+152,Kansas,33.7,2007,Thousands of jobs,1236.9
+162,Kentucky,48.0,2007,Thousands of jobs,1684.3
+172,Louisiana,41.6,2007,Thousands of jobs,1716.8
+182,Maine,32.8,2007,Thousands of jobs,592.3
+192,Maryland,48.1,2007,Thousands of jobs,2305.2
+202,Massachusetts,40.5,2007,Thousands of jobs,3111.5
+212,Michigan,40.8,2007,Thousands of jobs,3907.0
+222,Minnesota,35.6,2007,Thousands of jobs,2548.3
+232,Mississippi,47.3,2007,Thousands of jobs,1001.8
+242,Missouri,46.8,2007,Thousands of jobs,2604.5
+252,Montana,22.8,2007,Thousands of jobs,412.2
+262,Nebraska,31.4,2007,Thousands of jobs,880.0
+272,Nevada,35.4,2007,Thousands of jobs,1203.1
+282,New Hampshire,36.0,2007,Thousands of jobs,616.6
+292,New Jersey,42.2,2007,Thousands of jobs,3648.0
+302,New Mexico,30.1,2007,Thousands of jobs,740.1
+312,New York,38.0,2007,Thousands of jobs,7787.5
+322,North Carolina,49.9,2007,Thousands of jobs,3778.3
+332,North Dakota,29.8,2007,Thousands of jobs,308.2
+342,Ohio,43.6,2007,Thousands of jobs,4971.0
+352,Oklahoma,37.8,2007,Thousands of jobs,1371.5
+362,Oregon,27.1,2007,Thousands of jobs,1654.5
+372,Pennsylvania,42.5,2007,Thousands of jobs,5449.6
+382,Rhode Island,41.0,2007,Thousands of jobs,464.9
+392,South Carolina,45.4,2007,Thousands of jobs,1727.3
+402,South Dakota,33.0,2007,Thousands of jobs,365.9
+412,Tennessee,49.7,2007,Thousands of jobs,2659.8
+422,Texas,39.7,2007,Thousands of jobs,9525.0
+432,Utah,44.6,2007,Thousands of jobs,1142.1
+442,Vermont,26.0,2007,Thousands of jobs,294.8
+452,Virginia,38.2,2007,Thousands of jobs,3382.5
+462,Washington,26.7,2007,Thousands of jobs,2722.2
+472,West Virginia,48.1,2007,Thousands of jobs,626.8
+482,Wisconsin,41.1,2007,Thousands of jobs,2643.5
+492,Wyoming,31.9,2007,Thousands of jobs,247.0
+502,Alabama,44.3,2008,Thousands of jobs,1728.7
+512,Alaska,14.2,2008,Thousands of jobs,272.8
+522,Arizona,48.2,2008,Thousands of jobs,2427.7
+532,Arkansas,41.3,2008,Thousands of jobs,1088.0
+542,California,50.9,2008,Thousands of jobs,14643.4
+552,Colorado,36.1,2008,Thousands of jobs,2190.3
+562,Connecticut,40.5,2008,Thousands of jobs,1571.5
+572,Delaware,49.0,2008,Thousands of jobs,398.2
+582,Florida,39.1,2008,Thousands of jobs,7108.1
+592,Georgia,46.6,2008,Thousands of jobs,3714.6
+602,Hawaii,37.3,2008,Thousands of jobs,553.9
+612,Idaho,25.9,2008,Thousands of jobs,598.7
+622,Illinois,38.7,2008,Thousands of jobs,5392.3
+632,Indiana,45.3,2008,Thousands of jobs,2660.8
+642,Iowa,38.8,2008,Thousands of jobs,1368.3
+652,Kansas,32.3,2008,Thousands of jobs,1245.4
+662,Kentucky,42.9,2008,Thousands of jobs,1668.5
+672,Louisiana,39.4,2008,Thousands of jobs,1690.9
+682,Maine,33.7,2008,Thousands of jobs,583.8
+692,Maryland,45.6,2008,Thousands of jobs,2290.4
+702,Massachusetts,41.2,2008,Thousands of jobs,3128.6
+712,Michigan,40.3,2008,Thousands of jobs,3779.7
+722,Minnesota,35.0,2008,Thousands of jobs,2526.2
+732,Mississippi,44.1,2008,Thousands of jobs,984.3
+742,Missouri,43.1,2008,Thousands of jobs,2548.5
+752,Montana,21.7,2008,Thousands of jobs,407.8
+762,Nebraska,30.8,2008,Thousands of jobs,886.3
+772,Nevada,33.3,2008,Thousands of jobs,1179.0
+782,New Hampshire,36.4,2008,Thousands of jobs,608.5
+792,New Jersey,41.0,2008,Thousands of jobs,3638.3
+802,New Mexico,30.3,2008,Thousands of jobs,726.9
+812,New York,38.1,2008,Thousands of jobs,7833.2
+822,North Carolina,45.5,2008,Thousands of jobs,3714.2
+832,North Dakota,31.3,2008,Thousands of jobs,320.6
+842,Ohio,43.2,2008,Thousands of jobs,4898.0
+852,Oklahoma,38.5,2008,Thousands of jobs,1387.1
+862,Oregon,32.9,2008,Thousands of jobs,1626.6
+872,Pennsylvania,41.7,2008,Thousands of jobs,5453.7
+882,Rhode Island,41.3,2008,Thousands of jobs,454.7
+892,South Carolina,42.8,2008,Thousands of jobs,1704.6
+902,South Dakota,33.1,2008,Thousands of jobs,368.5
+912,Tennessee,40.9,2008,Thousands of jobs,2625.4
+922,Texas,39.8,2008,Thousands of jobs,9672.1
+932,Utah,43.3,2008,Thousands of jobs,1131.2
+942,Vermont,30.2,2008,Thousands of jobs,292.2
+952,Virginia,35.3,2008,Thousands of jobs,3330.6
+962,Washington,27.4,2008,Thousands of jobs,2714.0
+972,West Virginia,42.5,2008,Thousands of jobs,626.9
+982,Wisconsin,39.9,2008,Thousands of jobs,2639.3
+992,Wyoming,32.7,2008,Thousands of jobs,254.9
+1002,Alabama,39.5,2009,Thousands of jobs,1626.0
+1012,Alaska,18.0,2009,Thousands of jobs,264.6
+1022,Arizona,45.4,2009,Thousands of jobs,2258.4
+1032,Arkansas,39.1,2009,Thousands of jobs,1025.3
+1042,California,47.6,2009,Thousands of jobs,13680.0
+1052,Colorado,35.4,2009,Thousands of jobs,2060.6
+1062,Connecticut,36.4,2009,Thousands of jobs,1516.3
+1072,Delaware,44.0,2009,Thousands of jobs,375.2
+1082,Florida,38.4,2009,Thousands of jobs,6632.9
+1092,Georgia,42.6,2009,Thousands of jobs,3483.7
+1102,Hawaii,36.0,2009,Thousands of jobs,519.0
+1112,Idaho,25.0,2009,Thousands of jobs,551.8
+1122,Illinois,37.8,2009,Thousands of jobs,5114.2
+1132,Indiana,43.8,2009,Thousands of jobs,2504.8
+1142,Iowa,37.2,2009,Thousands of jobs,1331.3
+1152,Kansas,30.4,2009,Thousands of jobs,1192.8
+1162,Kentucky,38.6,2009,Thousands of jobs,1568.2
+1172,Louisiana,38.6,2009,Thousands of jobs,1662.3
+1182,Maine,32.5,2009,Thousands of jobs,563.7
+1192,Maryland,42.6,2009,Thousands of jobs,2199.4
+1202,Massachusetts,37.0,2009,Thousands of jobs,3014.4
+1212,Michigan,37.9,2009,Thousands of jobs,3476.5
+1222,Minnesota,33.6,2009,Thousands of jobs,2411.4
+1232,Mississippi,40.6,2009,Thousands of jobs,930.6
+1242,Missouri,40.1,2009,Thousands of jobs,2418.8
+1252,Montana,25.1,2009,Thousands of jobs,382.2
+1262,Nebraska,26.0,2009,Thousands of jobs,852.6
+1272,Nevada,33.8,2009,Thousands of jobs,1056.0
+1282,New Hampshire,34.9,2009,Thousands of jobs,584.5
+1292,New Jersey,37.3,2009,Thousands of jobs,3467.9
+1302,New Mexico,29.6,2009,Thousands of jobs,689.5
+1312,New York,36.1,2009,Thousands of jobs,7592.3
+1322,North Carolina,39.3,2009,Thousands of jobs,3477.7
+1332,North Dakota,30.6,2009,Thousands of jobs,312.0
+1342,Ohio,40.1,2009,Thousands of jobs,4617.5
+1352,Oklahoma,40.6,2009,Thousands of jobs,1332.1
+1362,Oregon,30.3,2009,Thousands of jobs,1498.6
+1372,Pennsylvania,41.6,2009,Thousands of jobs,5259.7
+1382,Rhode Island,36.3,2009,Thousands of jobs,432.2
+1392,South Carolina,36.6,2009,Thousands of jobs,1596.0
+1402,South Dakota,33.4,2009,Thousands of jobs,358.3
+1412,Tennessee,35.2,2009,Thousands of jobs,2422.1
+1422,Texas,38.6,2009,Thousands of jobs,9346.5
+1432,Utah,42.0,2009,Thousands of jobs,1066.7
+1442,Vermont,34.3,2009,Thousands of jobs,278.3
+1452,Virginia,31.2,2009,Thousands of jobs,3166.9
+1462,Washington,28.0,2009,Thousands of jobs,2585.0
+1472,West Virginia,40.1,2009,Thousands of jobs,607.8
+1482,Wisconsin,36.4,2009,Thousands of jobs,2510.8
+1492,Wyoming,30.3,2009,Thousands of jobs,239.6
+1502,Alabama,46.2,2010,Thousands of jobs,1618.8
+1512,Alaska,19.8,2010,Thousands of jobs,269.0
+1522,Arizona,42.9,2010,Thousands of jobs,2222.9
+1532,Arkansas,43.7,2010,Thousands of jobs,1016.6
+1542,California,45.3,2010,Thousands of jobs,13566.7
+1552,Colorado,36.5,2010,Thousands of jobs,2033.2
+1562,Connecticut,39.8,2010,Thousands of jobs,1500.2
+1572,Delaware,46.7,2010,Thousands of jobs,368.8
+1582,Florida,40.4,2010,Thousands of jobs,6561.6
+1592,Georgia,46.3,2010,Thousands of jobs,3423.2
+1602,Hawaii,40.3,2010,Thousands of jobs,512.8
+1612,Idaho,28.2,2010,Thousands of jobs,552.6
+1622,Illinois,40.2,2010,Thousands of jobs,5082.3
+1632,Indiana,47.5,2010,Thousands of jobs,2503.9
+1642,Iowa,39.4,2010,Thousands of jobs,1333.2
+1652,Kansas,33.4,2010,Thousands of jobs,1166.8
+1662,Kentucky,43.8,2010,Thousands of jobs,1568.4
+1672,Louisiana,42.2,2010,Thousands of jobs,1654.0
+1682,Maine,34.1,2010,Thousands of jobs,556.6
+1692,Maryland,46.4,2010,Thousands of jobs,2169.7
+1702,Massachusetts,38.8,2010,Thousands of jobs,3032.6
+1712,Michigan,38.3,2010,Thousands of jobs,3479.1
+1722,Minnesota,33.1,2010,Thousands of jobs,2392.4
+1732,Mississippi,44.3,2010,Thousands of jobs,919.5
+1742,Missouri,43.9,2010,Thousands of jobs,2388.4
+1752,Montana,27.9,2010,Thousands of jobs,384.7
+1762,Nebraska,29.8,2010,Thousands of jobs,844.7
+1772,Nevada,32.6,2010,Thousands of jobs,1033.6
+1782,New Hampshire,38.3,2010,Thousands of jobs,584.0
+1792,New Jersey,40.8,2010,Thousands of jobs,3411.3
+1802,New Mexico,30.3,2010,Thousands of jobs,665.5
+1812,New York,37.1,2010,Thousands of jobs,7582.7
+1822,North Carolina,44.1,2010,Thousands of jobs,3429.9
+1832,North Dakota,34.4,2010,Thousands of jobs,321.4
+1842,Ohio,46.4,2010,Thousands of jobs,4576.9
+1852,Oklahoma,40.2,2010,Thousands of jobs,1318.3
+1862,Oregon,25.4,2010,Thousands of jobs,1477.3
+1872,Pennsylvania,45.2,2010,Thousands of jobs,5231.7
+1882,Rhode Island,39.3,2010,Thousands of jobs,428.8
+1892,South Carolina,40.8,2010,Thousands of jobs,1580.2
+1902,South Dakota,34.7,2010,Thousands of jobs,356.4
+1912,Tennessee,41.3,2010,Thousands of jobs,2414.4
+1922,Texas,38.2,2010,Thousands of jobs,9313.2
+1932,Utah,41.6,2010,Thousands of jobs,1050.6
+1942,Vermont,34.3,2010,Thousands of jobs,276.1
+1952,Virginia,36.1,2010,Thousands of jobs,3156.9
+1962,Washington,23.8,2010,Thousands of jobs,2558.5
+1972,West Virginia,43.3,2010,Thousands of jobs,599.1
+1982,Wisconsin,37.9,2010,Thousands of jobs,2479.9
+1992,Wyoming,32.1,2010,Thousands of jobs,232.2
+2002,Alabama,42.8,2011,Thousands of jobs,1615.0
+2012,Alaska,22.4,2011,Thousands of jobs,276.8
+2022,Arizona,45.8,2011,Thousands of jobs,2229.4
+2032,Arkansas,42.8,2011,Thousands of jobs,1040.0
+2042,California,49.4,2011,Thousands of jobs,13740.8
+2052,Colorado,38.8,2011,Thousands of jobs,2073.8
+2062,Connecticut,39.5,2011,Thousands of jobs,1514.5
+2072,Delaware,44.0,2011,Thousands of jobs,373.5
+2082,Florida,38.7,2011,Thousands of jobs,6652.3
+2092,Georgia,46.7,2011,Thousands of jobs,3482.0
+2102,Hawaii,32.2,2011,Thousands of jobs,514.4
+2112,Idaho,25.4,2011,Thousands of jobs,561.7
+2122,Illinois,40.7,2011,Thousands of jobs,5149.2
+2132,Indiana,45.7,2011,Thousands of jobs,2558.1
+2142,Iowa,41.2,2011,Thousands of jobs,1343.3
+2152,Kansas,35.4,2011,Thousands of jobs,1183.7
+2162,Kentucky,42.2,2011,Thousands of jobs,1582.2
+2172,Louisiana,42.3,2011,Thousands of jobs,1661.1
+2182,Maine,33.1,2011,Thousands of jobs,556.4
+2192,Maryland,45.3,2011,Thousands of jobs,2211.8
+2202,Massachusetts,40.1,2011,Thousands of jobs,3096.4
+2212,Michigan,37.7,2011,Thousands of jobs,3590.1
+2222,Minnesota,34.0,2011,Thousands of jobs,2440.4
+2232,Mississippi,43.4,2011,Thousands of jobs,917.0
+2242,Missouri,45.0,2011,Thousands of jobs,2421.8
+2252,Montana,27.5,2011,Thousands of jobs,389.7
+2262,Nebraska,30.3,2011,Thousands of jobs,849.0
+2272,Nevada,33.0,2011,Thousands of jobs,1048.5
+2282,New Hampshire,39.1,2011,Thousands of jobs,591.5
+2292,New Jersey,41.4,2011,Thousands of jobs,3436.7
+2302,New Mexico,32.6,2011,Thousands of jobs,674.8
+2312,New York,37.5,2011,Thousands of jobs,7703.3
+2322,North Carolina,43.7,2011,Thousands of jobs,3517.0
+2332,North Dakota,36.6,2011,Thousands of jobs,344.5
+2342,Ohio,42.6,2011,Thousands of jobs,4651.2
+2352,Oklahoma,45.3,2011,Thousands of jobs,1330.8
+2362,Oregon,25.8,2011,Thousands of jobs,1507.8
+2372,Pennsylvania,44.4,2011,Thousands of jobs,5291.7
+2382,Rhode Island,40.0,2011,Thousands of jobs,430.1
+2392,South Carolina,42.9,2011,Thousands of jobs,1589.6
+2402,South Dakota,33.9,2011,Thousands of jobs,362.4
+2412,Tennessee,40.2,2011,Thousands of jobs,2462.8
+2422,Texas,41.5,2011,Thousands of jobs,9583.6
+2432,Utah,41.8,2011,Thousands of jobs,1060.0
+2442,Vermont,31.0,2011,Thousands of jobs,281.1
+2452,Virginia,33.3,2011,Thousands of jobs,3188.7
+2462,Washington,24.3,2011,Thousands of jobs,2587.2
+2472,West Virginia,39.4,2011,Thousands of jobs,608.8
+2482,Wisconsin,37.4,2011,Thousands of jobs,2509.9
+2492,Wyoming,34.2,2011,Thousands of jobs,235.6
+2502,Alabama,40.1,2012,Thousands of jobs,1634.3
+2512,Alaska,22.0,2012,Thousands of jobs,279.0
+2522,Arizona,46.6,2012,Thousands of jobs,2274.6
+2532,Arkansas,40.9,2012,Thousands of jobs,1040.1
+2542,California,48.7,2012,Thousands of jobs,14121.7
+2552,Colorado,40.3,2012,Thousands of jobs,2116.1
+2562,Connecticut,42.4,2012,Thousands of jobs,1538.3
+2572,Delaware,43.3,2012,Thousands of jobs,380.2
+2582,Florida,36.9,2012,Thousands of jobs,6819.2
+2592,Georgia,43.0,2012,Thousands of jobs,3549.7
+2602,Hawaii,36.2,2012,Thousands of jobs,533.9
+2612,Idaho,24.6,2012,Thousands of jobs,568.8
+2622,Illinois,41.0,2012,Thousands of jobs,5235.5
+2632,Indiana,45.6,2012,Thousands of jobs,2584.8
+2642,Iowa,42.4,2012,Thousands of jobs,1362.8
+2652,Kansas,34.8,2012,Thousands of jobs,1198.1
+2662,Kentucky,42.4,2012,Thousands of jobs,1592.7
+2672,Louisiana,41.3,2012,Thousands of jobs,1705.3
+2682,Maine,34.0,2012,Thousands of jobs,564.5
+2692,Maryland,45.3,2012,Thousands of jobs,2237.4
+2702,Massachusetts,38.3,2012,Thousands of jobs,3150.9
+2712,Michigan,40.2,2012,Thousands of jobs,3653.2
+2722,Minnesota,33.4,2012,Thousands of jobs,2478.5
+2732,Mississippi,40.5,2012,Thousands of jobs,929.1
+2742,Missouri,45.2,2012,Thousands of jobs,2438.0
+2752,Montana,28.4,2012,Thousands of jobs,401.0
+2762,Nebraska,33.4,2012,Thousands of jobs,871.2
+2772,Nevada,36.2,2012,Thousands of jobs,1062.5
+2782,New Hampshire,38.1,2012,Thousands of jobs,599.4
+2792,New Jersey,40.6,2012,Thousands of jobs,3493.4
+2802,New Mexico,32.8,2012,Thousands of jobs,677.6
+2812,New York,36.1,2012,Thousands of jobs,7834.0
+2822,North Carolina,40.3,2012,Thousands of jobs,3566.1
+2832,North Dakota,36.5,2012,Thousands of jobs,376.6
+2842,Ohio,44.8,2012,Thousands of jobs,4766.3
+2852,Oklahoma,43.2,2012,Thousands of jobs,1378.6
+2862,Oregon,27.4,2012,Thousands of jobs,1543.6
+2872,Pennsylvania,44.5,2012,Thousands of jobs,5326.4
+2882,Rhode Island,39.0,2012,Thousands of jobs,435.3
+2892,South Carolina,39.6,2012,Thousands of jobs,1622.4
+2902,South Dakota,38.9,2012,Thousands of jobs,368.6
+2912,Tennessee,40.2,2012,Thousands of jobs,2488.8
+2922,Texas,40.2,2012,Thousands of jobs,9982.4
+2932,Utah,44.1,2012,Thousands of jobs,1101.4
+2942,Vermont,30.0,2012,Thousands of jobs,286.1
+2952,Virginia,32.5,2012,Thousands of jobs,3262.0
+2962,Washington,26.3,2012,Thousands of jobs,2652.8
+2972,West Virginia,39.9,2012,Thousands of jobs,618.6
+2982,Wisconsin,37.3,2012,Thousands of jobs,2529.0
+2992,Wyoming,36.7,2012,Thousands of jobs,240.4
+3002,Alabama,37.4,2013,Thousands of jobs,1655.3
+3012,Alaska,20.4,2013,Thousands of jobs,285.1
+3022,Arizona,44.3,2013,Thousands of jobs,2350.3
+3032,Arkansas,37.7,2013,Thousands of jobs,1033.8
+3042,California,49.4,2013,Thousands of jobs,14561.1
+3052,Colorado,39.6,2013,Thousands of jobs,2176.1
+3062,Connecticut,44.0,2013,Thousands of jobs,1536.9
+3072,Delaware,42.0,2013,Thousands of jobs,387.6
+3082,Florida,35.0,2013,Thousands of jobs,7070.4
+3092,Georgia,38.4,2013,Thousands of jobs,3588.0
+3102,Hawaii,32.2,2013,Thousands of jobs,542.5
+3112,Idaho,25.5,2013,Thousands of jobs,582.4
+3122,Illinois,38.9,2013,Thousands of jobs,5279.7
+3132,Indiana,43.0,2013,Thousands of jobs,2660.5
+3142,Iowa,40.8,2013,Thousands of jobs,1378.1
+3152,Kansas,32.4,2013,Thousands of jobs,1212.0
+3162,Kentucky,38.5,2013,Thousands of jobs,1602.1
+3172,Louisiana,38.6,2013,Thousands of jobs,1748.3
+3182,Maine,34.7,2013,Thousands of jobs,570.9
+3192,Maryland,42.1,2013,Thousands of jobs,2254.2
+3202,Massachusetts,38.3,2013,Thousands of jobs,3152.7
+3212,Michigan,37.9,2013,Thousands of jobs,3745.2
+3222,Minnesota,33.9,2013,Thousands of jobs,2505.6
+3232,Mississippi,37.3,2013,Thousands of jobs,936.0
+3242,Missouri,41.9,2013,Thousands of jobs,2461.3
+3252,Montana,27.7,2013,Thousands of jobs,403.4
+3262,Nebraska,27.0,2013,Thousands of jobs,882.9
+3272,Nevada,37.5,2013,Thousands of jobs,1085.2
+3282,New Hampshire,37.9,2013,Thousands of jobs,607.4
+3292,New Jersey,39.1,2013,Thousands of jobs,3495.3
+3302,New Mexico,33.5,2013,Thousands of jobs,686.7
+3312,New York,35.4,2013,Thousands of jobs,8031.7
+3322,North Carolina,37.2,2013,Thousands of jobs,3617.9
+3332,North Dakota,36.7,2013,Thousands of jobs,390.9
+3342,Ohio,40.2,2013,Thousands of jobs,4818.5
+3352,Oklahoma,39.3,2013,Thousands of jobs,1408.9
+3362,Oregon,31.6,2013,Thousands of jobs,1568.9
+3372,Pennsylvania,42.5,2013,Thousands of jobs,5337.4
+3382,Rhode Island,39.3,2013,Thousands of jobs,443.0
+3392,South Carolina,35.8,2013,Thousands of jobs,1670.1
+3402,South Dakota,37.4,2013,Thousands of jobs,372.7
+3412,Tennessee,38.4,2013,Thousands of jobs,2564.4
+3422,Texas,38.6,2013,Thousands of jobs,10226.1
+3432,Utah,44.7,2013,Thousands of jobs,1146.9
+3442,Vermont,30.2,2013,Thousands of jobs,288.2
+3452,Virginia,31.1,2013,Thousands of jobs,3273.6
+3462,Washington,27.4,2013,Thousands of jobs,2687.1
+3472,West Virginia,36.0,2013,Thousands of jobs,624.9
+3482,Wisconsin,35.4,2013,Thousands of jobs,2576.2
+3492,Wyoming,36.7,2013,Thousands of jobs,241.9
+3502,Alabama,38.2,2014,Thousands of jobs,1668.0
+3512,Alaska,23.4,2014,Thousands of jobs,285.0
+3522,Arizona,43.6,2014,Thousands of jobs,2386.7
+3532,Arkansas,36.2,2014,Thousands of jobs,1041.4
+3542,California,48.9,2014,Thousands of jobs,14992.7
+3552,Colorado,36.5,2014,Thousands of jobs,2240.5
+3562,Connecticut,41.9,2014,Thousands of jobs,1556.8
+3572,Delaware,44.7,2014,Thousands of jobs,393.8
+3582,Florida,36.5,2014,Thousands of jobs,7325.9
+3592,Georgia,40.9,2014,Thousands of jobs,3730.0
+3602,Hawaii,30.2,2014,Thousands of jobs,556.0
+3612,Idaho,26.6,2014,Thousands of jobs,595.3
+3622,Illinois,39.0,2014,Thousands of jobs,5364.3
+3632,Indiana,42.4,2014,Thousands of jobs,2702.3
+3642,Iowa,38.5,2014,Thousands of jobs,1384.8
+3652,Kansas,32.3,2014,Thousands of jobs,1216.5
+3662,Kentucky,39.0,2014,Thousands of jobs,1634.0
+3672,Louisiana,38.2,2014,Thousands of jobs,1785.4
+3682,Maine,34.4,2014,Thousands of jobs,568.5
+3692,Maryland,43.1,2014,Thousands of jobs,2260.5
+3702,Massachusetts,38.5,2014,Thousands of jobs,3219.3
+3712,Michigan,38.5,2014,Thousands of jobs,3793.1
+3722,Minnesota,31.8,2014,Thousands of jobs,2551.5
+3732,Mississippi,38.2,2014,Thousands of jobs,945.1
+3742,Missouri,40.2,2014,Thousands of jobs,2487.4
+3752,Montana,27.1,2014,Thousands of jobs,409.3
+3762,Nebraska,25.5,2014,Thousands of jobs,885.0
+3772,Nevada,41.0,2014,Thousands of jobs,1124.5
+3782,New Hampshire,37.6,2014,Thousands of jobs,611.5
+3792,New Jersey,39.6,2014,Thousands of jobs,3549.2
+3802,New Mexico,33.1,2014,Thousands of jobs,688.1
+3812,New York,35.2,2014,Thousands of jobs,8190.1
+3822,North Carolina,39.8,2014,Thousands of jobs,3688.7
+3832,North Dakota,34.9,2014,Thousands of jobs,405.0
+3842,Ohio,40.4,2014,Thousands of jobs,4879.9
+3852,Oklahoma,39.0,2014,Thousands of jobs,1438.4
+3862,Oregon,27.7,2014,Thousands of jobs,1619.9
+3872,Pennsylvania,42.8,2014,Thousands of jobs,5403.5
+3882,Rhode Island,37.0,2014,Thousands of jobs,454.6
+3892,South Carolina,38.1,2014,Thousands of jobs,1716.2
+3902,South Dakota,33.2,2014,Thousands of jobs,374.6
+3912,Tennessee,38.1,2014,Thousands of jobs,2614.0
+3922,Texas,37.7,2014,Thousands of jobs,10596.7
+3932,Utah,41.4,2014,Thousands of jobs,1166.2
+3942,Vermont,29.0,2014,Thousands of jobs,285.3
+3952,Virginia,31.8,2014,Thousands of jobs,3305.2
+3962,Washington,25.2,2014,Thousands of jobs,2733.7
+3972,West Virginia,35.3,2014,Thousands of jobs,620.1
+3982,Wisconsin,38.4,2014,Thousands of jobs,2607.3
+3992,Wyoming,35.1,2014,Thousands of jobs,251.2
+4002,Alabama,39.3,2015,Thousands of jobs,1690.1
+4012,Alaska,23.1,2015,Thousands of jobs,282.3
+4022,Arizona,40.5,2015,Thousands of jobs,2456.4
+4032,Arkansas,35.1,2015,Thousands of jobs,1074.6
+4042,California,49.4,2015,Thousands of jobs,15362.9
+4052,Colorado,35.5,2015,Thousands of jobs,2310.8
+4062,Connecticut,41.0,2015,Thousands of jobs,1572.1
+4072,Delaware,43.7,2015,Thousands of jobs,402.4
+4082,Florida,34.7,2015,Thousands of jobs,7589.7
+4092,Georgia,37.8,2015,Thousands of jobs,3824.3
+4102,Hawaii,32.8,2015,Thousands of jobs,562.9
+4112,Idaho,24.8,2015,Thousands of jobs,617.1
+4122,Illinois,39.5,2015,Thousands of jobs,5470.6
+4132,Indiana,40.0,2015,Thousands of jobs,2773.8
+4142,Iowa,37.3,2015,Thousands of jobs,1416.2
+4152,Kansas,32.2,2015,Thousands of jobs,1243.7
+4162,Kentucky,39.3,2015,Thousands of jobs,1671.9
+4172,Louisiana,36.7,2015,Thousands of jobs,1786.6
+4182,Maine,33.8,2015,Thousands of jobs,590.1
+4192,Maryland,43.4,2015,Thousands of jobs,2292.9
+4202,Massachusetts,36.2,2015,Thousands of jobs,3253.8
+4212,Michigan,38.4,2015,Thousands of jobs,3907.0
+4222,Minnesota,31.4,2015,Thousands of jobs,2607.3
+4232,Mississippi,35.6,2015,Thousands of jobs,959.6
+4242,Missouri,39.0,2015,Thousands of jobs,2558.9
+4252,Montana,28.5,2015,Thousands of jobs,416.6
+4262,Nebraska,26.0,2015,Thousands of jobs,891.2
+4272,Nevada,39.6,2015,Thousands of jobs,1174.0
+4282,New Hampshire,37.4,2015,Thousands of jobs,619.9
+4292,New Jersey,39.6,2015,Thousands of jobs,3595.4
+4302,New Mexico,30.2,2015,Thousands of jobs,691.9
+4312,New York,35.7,2015,Thousands of jobs,8402.2
+4322,North Carolina,38.8,2015,Thousands of jobs,3817.3
+4332,North Dakota,32.8,2015,Thousands of jobs,395.5
+4342,Ohio,39.1,2015,Thousands of jobs,4983.4
+4352,Oklahoma,35.7,2015,Thousands of jobs,1434.8
+4362,Oregon,28.9,2015,Thousands of jobs,1662.8
+4372,Pennsylvania,42.6,2015,Thousands of jobs,5458.4
+4382,Rhode Island,39.7,2015,Thousands of jobs,457.5
+4392,South Carolina,35.9,2015,Thousands of jobs,1786.0
+4402,South Dakota,33.3,2015,Thousands of jobs,382.8
+4412,Tennessee,36.3,2015,Thousands of jobs,2668.0
+4422,Texas,37.1,2015,Thousands of jobs,10870.5
+4432,Utah,40.5,2015,Thousands of jobs,1211.4
+4442,Vermont,29.0,2015,Thousands of jobs,291.6
+4452,Virginia,32.2,2015,Thousands of jobs,3344.3
+4462,Washington,27.2,2015,Thousands of jobs,2821.5
+4472,West Virginia,35.7,2015,Thousands of jobs,619.6
+4482,Wisconsin,37.6,2015,Thousands of jobs,2636.7
+4492,Wyoming,34.8,2015,Thousands of jobs,244.8
+4502,Alabama,39.4,2016,Thousands of jobs,1724.3
+4512,Alaska,24.1,2016,Thousands of jobs,278.5
+4522,Arizona,42.5,2016,Thousands of jobs,2538.4
+4532,Arkansas,36.4,2016,Thousands of jobs,1095.5
+4542,California,46.4,2016,Thousands of jobs,15796.6
+4552,Colorado,35.2,2016,Thousands of jobs,2362.0
+4562,Connecticut,40.2,2016,Thousands of jobs,1601.7
+4572,Delaware,41.3,2016,Thousands of jobs,409.1
+4582,Florida,37.2,2016,Thousands of jobs,7870.0
+4592,Georgia,38.5,2016,Thousands of jobs,3964.8
+4602,Hawaii,31.8,2016,Thousands of jobs,571.9
+4612,Idaho,24.6,2016,Thousands of jobs,634.7
+4622,Illinois,38.4,2016,Thousands of jobs,5493.7
+4632,Indiana,37.8,2016,Thousands of jobs,2801.6
+4642,Iowa,35.6,2016,Thousands of jobs,1422.3
+4652,Kansas,31.9,2016,Thousands of jobs,1231.4
+4662,Kentucky,39.8,2016,Thousands of jobs,1702.7
+4672,Louisiana,37.2,2016,Thousands of jobs,1772.1
+4682,Maine,32.1,2016,Thousands of jobs,598.6
+4692,Maryland,41.2,2016,Thousands of jobs,2326.9
+4702,Massachusetts,35.8,2016,Thousands of jobs,3317.9
+4712,Michigan,36.7,2016,Thousands of jobs,3985.8
+4722,Minnesota,28.6,2016,Thousands of jobs,2648.8
+4732,Mississippi,36.9,2016,Thousands of jobs,964.7
+4742,Missouri,37.6,2016,Thousands of jobs,2590.4
+4752,Montana,26.7,2016,Thousands of jobs,423.6
+4762,Nebraska,25.4,2016,Thousands of jobs,899.3
+4772,Nevada,36.8,2016,Thousands of jobs,1207.2
+4782,New Hampshire,36.0,2016,Thousands of jobs,627.5
+4792,New Jersey,39.6,2016,Thousands of jobs,3671.6
+4802,New Mexico,30.6,2016,Thousands of jobs,695.0
+4812,New York,34.8,2016,Thousands of jobs,8511.6
+4822,North Carolina,39.1,2016,Thousands of jobs,3917.9
+4832,North Dakota,29.9,2016,Thousands of jobs,374.5
+4842,Ohio,38.3,2016,Thousands of jobs,4978.8
+4852,Oklahoma,36.2,2016,Thousands of jobs,1435.7
+4862,Oregon,24.6,2016,Thousands of jobs,1728.9
+4872,Pennsylvania,41.4,2016,Thousands of jobs,5521.1
+4882,Rhode Island,37.0,2016,Thousands of jobs,457.9
+4892,South Carolina,37.3,2016,Thousands of jobs,1826.7
+4902,South Dakota,30.9,2016,Thousands of jobs,387.6
+4912,Tennessee,36.6,2016,Thousands of jobs,2745.7
+4922,Texas,36.2,2016,Thousands of jobs,10989.0
+4932,Utah,39.5,2016,Thousands of jobs,1268.0
+4942,Vermont,29.0,2016,Thousands of jobs,290.3
+4952,Virginia,30.0,2016,Thousands of jobs,3380.1
+4962,Washington,24.1,2016,Thousands of jobs,2905.8
+4972,West Virginia,35.4,2016,Thousands of jobs,602.9
+4982,Wisconsin,36.0,2016,Thousands of jobs,2705.2
+4992,Wyoming,37.3,2016,Thousands of jobs,234.7
+5002,Alabama,38.4,2017,Thousands of jobs,1746.5
+5012,Alaska,22.0,2017,Thousands of jobs,274.1
+5022,Arizona,44.2,2017,Thousands of jobs,2592.1
+5032,Arkansas,37.1,2017,Thousands of jobs,1109.4
+5042,California,49.0,2017,Thousands of jobs,16138.7
+5052,Colorado,36.4,2017,Thousands of jobs,2423.9
+5062,Connecticut,38.2,2017,Thousands of jobs,1573.1
+5072,Delaware,41.3,2017,Thousands of jobs,409.6
+5082,Florida,37.0,2017,Thousands of jobs,7989.1
+5092,Georgia,37.2,2017,Thousands of jobs,4070.6
+5102,Hawaii,28.8,2017,Thousands of jobs,572.3
+5112,Idaho,28.4,2017,Thousands of jobs,653.3
+5122,Illinois,40.8,2017,Thousands of jobs,5532.3
+5132,Indiana,38.3,2017,Thousands of jobs,2827.7
+5142,Iowa,36.8,2017,Thousands of jobs,1415.1
+5152,Kansas,32.6,2017,Thousands of jobs,1243.5
+5162,Kentucky,39.5,2017,Thousands of jobs,1717.6
+5172,Louisiana,36.4,2017,Thousands of jobs,1789.9
+5182,Maine,33.8,2017,Thousands of jobs,604.0
+5192,Maryland,40.9,2017,Thousands of jobs,2386.8
+5202,Massachusetts,37.5,2017,Thousands of jobs,3379.7
+5212,Michigan,36.6,2017,Thousands of jobs,4010.1
+5222,Minnesota,31.6,2017,Thousands of jobs,2687.2
+5232,Mississippi,35.8,2017,Thousands of jobs,981.7
+5242,Missouri,39.8,2017,Thousands of jobs,2609.1
+5252,Montana,30.9,2017,Thousands of jobs,422.9
+5262,Nebraska,28.9,2017,Thousands of jobs,913.0
+5272,Nevada,38.1,2017,Thousands of jobs,1250.7
+5282,New Hampshire,36.0,2017,Thousands of jobs,631.3
+5292,New Jersey,38.4,2017,Thousands of jobs,3710.2
+5302,New Mexico,31.9,2017,Thousands of jobs,709.5
+5312,New York,34.4,2017,Thousands of jobs,8611.9
+5322,North Carolina,38.9,2017,Thousands of jobs,3952.4
+5332,North Dakota,33.0,2017,Thousands of jobs,372.0
+5342,Ohio,37.5,2017,Thousands of jobs,5029.7
+5352,Oklahoma,36.8,2017,Thousands of jobs,1441.9
+5362,Oregon,28.7,2017,Thousands of jobs,1758.7
+5372,Pennsylvania,41.5,2017,Thousands of jobs,5551.4
+5382,Rhode Island,34.3,2017,Thousands of jobs,460.0
+5392,South Carolina,35.6,2017,Thousands of jobs,1859.6
+5402,South Dakota,31.6,2017,Thousands of jobs,386.1
+5412,Tennessee,36.8,2017,Thousands of jobs,2809.4
+5422,Texas,37.2,2017,Thousands of jobs,11220.8
+5432,Utah,44.2,2017,Thousands of jobs,1312.8
+5442,Vermont,29.2,2017,Thousands of jobs,290.8
+5452,Virginia,31.2,2017,Thousands of jobs,3448.4
+5462,Washington,26.7,2017,Thousands of jobs,3023.5
+5472,West Virginia,36.0,2017,Thousands of jobs,597.9
+5482,Wisconsin,37.0,2017,Thousands of jobs,2735.1
+5492,Wyoming,38.6,2017,Thousands of jobs,232.4
+5502,Alabama,36.8,2018,Thousands of jobs,1772.6
+5512,Alaska,22.0,2018,Thousands of jobs,276.0
+5522,Arizona,43.1,2018,Thousands of jobs,2676.4
+5532,Arkansas,35.4,2018,Thousands of jobs,1119.7
+5542,California,48.8,2018,Thousands of jobs,16487.7
+5552,Colorado,39.1,2018,Thousands of jobs,2504.2
+5562,Connecticut,37.6,2018,Thousands of jobs,1595.0
+5572,Delaware,40.0,2018,Thousands of jobs,417.2
+5582,Florida,34.8,2018,Thousands of jobs,8274.4
+5592,Georgia,34.8,2018,Thousands of jobs,4111.9
+5602,Hawaii,27.5,2018,Thousands of jobs,578.5
+5612,Idaho,27.0,2018,Thousands of jobs,672.1
+5622,Illinois,40.7,2018,Thousands of jobs,5597.7
+5632,Indiana,36.3,2018,Thousands of jobs,2856.3
+5642,Iowa,38.2,2018,Thousands of jobs,1416.3
+5652,Kansas,32.6,2018,Thousands of jobs,1241.6
+5662,Kentucky,38.3,2018,Thousands of jobs,1727.8
+5672,Louisiana,35.0,2018,Thousands of jobs,1806.7
+5682,Maine,35.0,2018,Thousands of jobs,601.0
+5692,Maryland,39.6,2018,Thousands of jobs,2421.8
+5702,Massachusetts,36.9,2018,Thousands of jobs,3413.3
+5712,Michigan,36.0,2018,Thousands of jobs,4059.6
+5722,Minnesota,32.0,2018,Thousands of jobs,2706.8
+5732,Mississippi,36.5,2018,Thousands of jobs,991.3
+5742,Missouri,38.0,2018,Thousands of jobs,2627.8
+5752,Montana,29.5,2018,Thousands of jobs,430.7
+5762,Nebraska,28.0,2018,Thousands of jobs,918.6
+5772,Nevada,37.0,2018,Thousands of jobs,1292.3
+5782,New Hampshire,36.9,2018,Thousands of jobs,645.3
+5792,New Jersey,38.4,2018,Thousands of jobs,3745.5
+5802,New Mexico,33.2,2018,Thousands of jobs,724.6
+5812,New York,34.0,2018,Thousands of jobs,8731.9
+5822,North Carolina,37.8,2018,Thousands of jobs,4043.1
+5832,North Dakota,35.0,2018,Thousands of jobs,375.1
+5842,Ohio,36.8,2018,Thousands of jobs,5078.7
+5852,Oklahoma,37.5,2018,Thousands of jobs,1488.4
+5862,Oregon,29.2,2018,Thousands of jobs,1805.2
+5872,Pennsylvania,37.7,2018,Thousands of jobs,5684.3
+5882,Rhode Island,35.0,2018,Thousands of jobs,464.8
+5892,South Carolina,33.7,2018,Thousands of jobs,1911.3
+5902,South Dakota,32.1,2018,Thousands of jobs,387.3
+5912,Tennessee,35.3,2018,Thousands of jobs,2873.5
+5922,Texas,36.2,2018,Thousands of jobs,11535.4
+5932,Utah,44.3,2018,Thousands of jobs,1354.1
+5942,Vermont,29.8,2018,Thousands of jobs,292.4
+5952,Virginia,30.2,2018,Thousands of jobs,3527.9
+5962,Washington,25.7,2018,Thousands of jobs,3071.1
+5972,West Virginia,33.7,2018,Thousands of jobs,611.8
+5982,Wisconsin,39.3,2018,Thousands of jobs,2757.5
+5992,Wyoming,39.6,2018,Thousands of jobs,235.9
+6002,Alabama,39.2,2019,Thousands of jobs,1800.0
+6012,Alaska,19.2,2019,Thousands of jobs,281.3
+6022,Arizona,41.8,2019,Thousands of jobs,2757.7
+6032,Arkansas,36.2,2019,Thousands of jobs,1136.8
+6042,California,43.8,2019,Thousands of jobs,16593.6
+6052,Colorado,34.1,2019,Thousands of jobs,2542.8
+6062,Connecticut,39.5,2019,Thousands of jobs,1590.8
+6072,Delaware,42.3,2019,Thousands of jobs,421.6
+6082,Florida,35.8,2019,Thousands of jobs,8437.7
+6092,Georgia,38.6,2019,Thousands of jobs,4196.1
+6102,Hawaii,17.8,2019,Thousands of jobs,579.0
+6112,Idaho,24.4,2019,Thousands of jobs,695.5
+6122,Illinois,41.5,2019,Thousands of jobs,5603.4
+6132,Indiana,37.1,2019,Thousands of jobs,2889.1
+6142,Iowa,34.4,2019,Thousands of jobs,1433.6
+6152,Kansas,32.0,2019,Thousands of jobs,1248.9
+6162,Kentucky,40.2,2019,Thousands of jobs,1724.4
+6172,Louisiana,35.8,2019,Thousands of jobs,1798.5
+6182,Maine,33.7,2019,Thousands of jobs,603.2
+6192,Maryland,40.6,2019,Thousands of jobs,2425.8
+6202,Massachusetts,37.5,2019,Thousands of jobs,3476.0
+6212,Michigan,34.8,2019,Thousands of jobs,4069.4
+6222,Minnesota,29.5,2019,Thousands of jobs,2748.5
+6232,Mississippi,38.6,2019,Thousands of jobs,992.6
+6242,Missouri,37.6,2019,Thousands of jobs,2684.0
+6252,Montana,26.4,2019,Thousands of jobs,434.9
+6262,Nebraska,24.9,2019,Thousands of jobs,916.7
+6272,Nevada,34.0,2019,Thousands of jobs,1342.3
+6282,New Hampshire,35.4,2019,Thousands of jobs,649.0
+6292,New Jersey,39.4,2019,Thousands of jobs,3788.9
+6302,New Mexico,31.2,2019,Thousands of jobs,728.9
+6312,New York,34.7,2019,Thousands of jobs,8811.9
+6322,North Carolina,38.9,2019,Thousands of jobs,4159.6
+6332,North Dakota,32.7,2019,Thousands of jobs,380.2
+6342,Ohio,37.5,2019,Thousands of jobs,5109.7
+6352,Oklahoma,36.2,2019,Thousands of jobs,1478.6
+6362,Oregon,26.7,2019,Thousands of jobs,1834.0
+6372,Pennsylvania,38.4,2019,Thousands of jobs,5748.7
+6382,Rhode Island,37.0,2019,Thousands of jobs,469.1
+6392,South Carolina,33.6,2019,Thousands of jobs,1951.0
+6402,South Dakota,31.2,2019,Thousands of jobs,390.9
+6412,Tennessee,36.2,2019,Thousands of jobs,2913.9
+6422,Texas,38.0,2019,Thousands of jobs,11763.8
+6432,Utah,42.2,2019,Thousands of jobs,1402.4
+6442,Vermont,29.0,2019,Thousands of jobs,289.7
+6452,Virginia,32.2,2019,Thousands of jobs,3552.4
+6462,Washington,24.9,2019,Thousands of jobs,3165.7
+6472,West Virginia,35.9,2019,Thousands of jobs,604.3
+6482,Wisconsin,36.2,2019,Thousands of jobs,2784.1
+6492,Wyoming,38.8,2019,Thousands of jobs,239.5
+6502,Alabama,35.2,2020,Thousands of jobs,1723.4
+6512,Alaska,15.8,2020,Thousands of jobs,253.9
+6522,Arizona,47.1,2020,Thousands of jobs,2680.0
+6532,Arkansas,33.0,2020,Thousands of jobs,1106.9
+6542,California,48.0,2020,Thousands of jobs,15114.2
+6552,Colorado,34.6,2020,Thousands of jobs,2408.0
+6562,Connecticut,39.1,2020,Thousands of jobs,1488.1
+6572,Delaware,38.0,2020,Thousands of jobs,391.6
+6582,Florida,35.8,2020,Thousands of jobs,7935.1
+6592,Georgia,33.1,2020,Thousands of jobs,3971.2
+6602,Hawaii,17.2,2020,Thousands of jobs,482.2
+6612,Idaho,25.9,2020,Thousands of jobs,703.4
+6622,Illinois,39.1,2020,Thousands of jobs,5186.9
+6632,Indiana,35.8,2020,Thousands of jobs,2731.2
+6642,Iowa,33.9,2020,Thousands of jobs,1352.8
+6652,Kansas,31.5,2020,Thousands of jobs,1185.0
+6662,Kentucky,36.2,2020,Thousands of jobs,1643.9
+6672,Louisiana,33.9,2020,Thousands of jobs,1645.1
+6682,Maine,33.5,2020,Thousands of jobs,565.0
+6692,Maryland,35.7,2020,Thousands of jobs,2229.7
+6702,Massachusetts,36.5,2020,Thousands of jobs,3140.0
+6712,Michigan,33.6,2020,Thousands of jobs,3683.9
+6722,Minnesota,29.4,2020,Thousands of jobs,2572.2
+6732,Mississippi,37.2,2020,Thousands of jobs,952.1
+6742,Missouri,35.0,2020,Thousands of jobs,2529.5
+6752,Montana,25.9,2020,Thousands of jobs,427.7
+6762,Nebraska,25.2,2020,Thousands of jobs,881.3
+6772,Nevada,36.2,2020,Thousands of jobs,1184.6
+6782,New Hampshire,36.1,2020,Thousands of jobs,599.1
+6792,New Jersey,36.9,2020,Thousands of jobs,3471.7
+6802,New Mexico,31.9,2020,Thousands of jobs,679.0
+6812,New York,33.6,2020,Thousands of jobs,7869.7
+6822,North Carolina,33.3,2020,Thousands of jobs,4007.5
+6832,North Dakota,33.4,2020,Thousands of jobs,351.4
+6842,Ohio,34.9,2020,Thousands of jobs,4802.2
+6852,Oklahoma,37.4,2020,Thousands of jobs,1415.6
+6862,Oregon,27.4,2020,Thousands of jobs,1705.1
+6872,Pennsylvania,36.4,2020,Thousands of jobs,5256.4
+6882,Rhode Island,34.3,2020,Thousands of jobs,423.2
+6892,South Carolina,33.6,2020,Thousands of jobs,1840.5
+6902,South Dakota,33.1,2020,Thousands of jobs,382.2
+6912,Tennessee,32.4,2020,Thousands of jobs,2798.5
+6922,Texas,35.5,2020,Thousands of jobs,11190.7
+6932,Utah,41.3,2020,Thousands of jobs,1369.6
+6942,Vermont,29.2,2020,Thousands of jobs,261.9
+6952,Virginia,28.9,2020,Thousands of jobs,3375.0
+6962,Washington,23.8,2020,Thousands of jobs,3001.3
+6972,West Virginia,32.2,2020,Thousands of jobs,554.4
+6982,Wisconsin,36.2,2020,Thousands of jobs,2622.3
+6992,Wyoming,35.5,2020,Thousands of jobs,224.8
+7002,Alabama,35.5,2021,Thousands of jobs,1775.8
+7012,Alaska,17.2,2021,Thousands of jobs,262.6
+7022,Arizona,48.8,2021,Thousands of jobs,2790.3
+7032,Arkansas,35.8,2021,Thousands of jobs,1158.6
+7042,California,47.8,2021,Thousands of jobs,15875.6
+7052,Colorado,35.9,2021,Thousands of jobs,2540.1
+7062,Connecticut,38.0,2021,Thousands of jobs,1538.8
+7072,Delaware,39.7,2021,Thousands of jobs,404.9
+7082,Florida,36.3,2021,Thousands of jobs,8524.1
+7092,Georgia,36.4,2021,Thousands of jobs,4221.0
+7102,Hawaii,18.2,2021,Thousands of jobs,511.8
+7112,Idaho,29.5,2021,Thousands of jobs,747.3
+7122,Illinois,41.3,2021,Thousands of jobs,5326.2
+7132,Indiana,37.1,2021,Thousands of jobs,2873.9
+7142,Iowa,37.2,2021,Thousands of jobs,1372.5
+7152,Kansas,35.0,2021,Thousands of jobs,1202.7
+7162,Kentucky,37.9,2021,Thousands of jobs,1709.8
+7172,Louisiana,34.5,2021,Thousands of jobs,1698.7
+7182,Maine,33.4,2021,Thousands of jobs,589.0
+7192,Maryland,38.9,2021,Thousands of jobs,2313.2
+7202,Massachusetts,36.2,2021,Thousands of jobs,3288.9
+7212,Michigan,36.9,2021,Thousands of jobs,3834.6
+7222,Minnesota,33.1,2021,Thousands of jobs,2612.4
+7232,Mississippi,36.8,2021,Thousands of jobs,975.1
+7242,Missouri,37.0,2021,Thousands of jobs,2588.7
+7252,Montana,30.2,2021,Thousands of jobs,452.7
+7262,Nebraska,29.1,2021,Thousands of jobs,903.0
+7272,Nevada,37.4,2021,Thousands of jobs,1290.6
+7282,New Hampshire,35.4,2021,Thousands of jobs,626.9
+7292,New Jersey,38.3,2021,Thousands of jobs,3655.5
+7302,New Mexico,33.2,2021,Thousands of jobs,697.3
+7312,New York,34.6,2021,Thousands of jobs,8106.8
+7322,North Carolina,36.9,2021,Thousands of jobs,4221.4
+7332,North Dakota,35.8,2021,Thousands of jobs,353.5
+7342,Ohio,37.2,2021,Thousands of jobs,4914.7
+7352,Oklahoma,40.4,2021,Thousands of jobs,1447.9
+7362,Oregon,27.7,2021,Thousands of jobs,1768.1
+7372,Pennsylvania,38.3,2021,Thousands of jobs,5392.4
+7382,Rhode Island,34.7,2021,Thousands of jobs,445.0
+7392,South Carolina,37.2,2021,Thousands of jobs,1927.7
+7402,South Dakota,32.7,2021,Thousands of jobs,396.0
+7412,Tennessee,35.1,2021,Thousands of jobs,2924.9
+7422,Texas,36.3,2021,Thousands of jobs,11749.0
+7432,Utah,42.2,2021,Thousands of jobs,1445.6
+7442,Vermont,28.5,2021,Thousands of jobs,269.9
+7452,Virginia,30.8,2021,Thousands of jobs,3437.9
+7462,Washington,25.6,2021,Thousands of jobs,3071.5
+7472,West Virginia,34.4,2021,Thousands of jobs,573.9
+7482,Wisconsin,38.0,2021,Thousands of jobs,2705.5
+7492,Wyoming,35.2,2021,Thousands of jobs,233.4

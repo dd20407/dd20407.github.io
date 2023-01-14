@@ -1,0 +1,751 @@
+,State,Median AQI,Year,Units,Value
+0,Alabama,49.8,2007,Millions of hours,"3,149.999"
+10,Alaska,16.9,2007,Millions of hours,468.319
+20,Arizona,47.5,2007,Millions of hours,"4,244.943"
+30,Arkansas,44.8,2007,Millions of hours,"1,837.477"
+40,California,48.9,2007,Millions of hours,"25,100.352"
+50,Colorado,37.4,2007,Millions of hours,"3,673.313"
+60,Connecticut,41.2,2007,Millions of hours,"2,629.768"
+70,Delaware,50.3,2007,Millions of hours,663.765
+80,Florida,40.8,2007,Millions of hours,"12,827.333"
+90,Georgia,49.8,2007,Millions of hours,"6,492.891"
+100,Hawaii,15.7,2007,Millions of hours,889.797
+110,Idaho,27.6,2007,Millions of hours,"1,026.068"
+120,Illinois,42.5,2007,Millions of hours,"9,103.526"
+130,Indiana,50.6,2007,Millions of hours,"4,676.620"
+140,Iowa,41.4,2007,Millions of hours,"2,291.459"
+150,Kansas,33.7,2007,Millions of hours,"2,059.137"
+160,Kentucky,48.0,2007,Millions of hours,"2,985.955"
+170,Louisiana,41.6,2007,Millions of hours,"2,975.112"
+180,Maine,32.8,2007,Millions of hours,971.893
+190,Maryland,48.1,2007,Millions of hours,"3,864.007"
+200,Massachusetts,40.5,2007,Millions of hours,"5,040.240"
+210,Michigan,40.8,2007,Millions of hours,"6,562.950"
+220,Minnesota,35.6,2007,Millions of hours,"4,133.489"
+230,Mississippi,47.3,2007,Millions of hours,"1,730.715"
+240,Missouri,46.8,2007,Millions of hours,"4,345.754"
+250,Montana,22.8,2007,Millions of hours,701.203
+260,Nebraska,31.4,2007,Millions of hours,"1,430.323"
+270,Nevada,35.4,2007,Millions of hours,"2,184.012"
+280,New Hampshire,36.0,2007,Millions of hours,990.681
+290,New Jersey,42.2,2007,Millions of hours,"6,022.778"
+300,New Mexico,30.1,2007,Millions of hours,"1,233.411"
+310,New York,38.0,2007,Millions of hours,"12,840.586"
+320,North Carolina,49.9,2007,Millions of hours,"6,357.400"
+330,North Dakota,29.8,2007,Millions of hours,494.331
+340,Ohio,43.6,2007,Millions of hours,"8,112.713"
+350,Oklahoma,37.8,2007,Millions of hours,"2,313.392"
+360,Oregon,27.1,2007,Millions of hours,"2,733.859"
+370,Pennsylvania,42.5,2007,Millions of hours,"8,933.345"
+380,Rhode Island,41.0,2007,Millions of hours,751.561
+390,South Carolina,45.4,2007,Millions of hours,"3,002.618"
+400,South Dakota,33.0,2007,Millions of hours,587.107
+410,Tennessee,49.7,2007,Millions of hours,"4,557.592"
+420,Texas,39.7,2007,Millions of hours,"16,806.132"
+430,Utah,44.6,2007,Millions of hours,"1,913.459"
+440,Vermont,26.0,2007,Millions of hours,479.674
+450,Virginia,38.2,2007,Millions of hours,"5,759.071"
+460,Washington,26.7,2007,Millions of hours,"4,561.725"
+470,West Virginia,48.1,2007,Millions of hours,"1,065.745"
+480,Wisconsin,41.1,2007,Millions of hours,"4,197.787"
+490,Wyoming,31.9,2007,Millions of hours,431.167
+500,Alabama,44.3,2008,Millions of hours,"2,999.167"
+510,Alaska,14.2,2008,Millions of hours,462.610
+520,Arizona,48.2,2008,Millions of hours,"4,098.235"
+530,Arkansas,41.3,2008,Millions of hours,"1,836.866"
+540,California,50.9,2008,Millions of hours,"24,276.289"
+550,Colorado,36.1,2008,Millions of hours,"3,672.508"
+560,Connecticut,40.5,2008,Millions of hours,"2,571.184"
+570,Delaware,49.0,2008,Millions of hours,649.312
+580,Florida,39.1,2008,Millions of hours,"12,129.317"
+590,Georgia,46.6,2008,Millions of hours,"6,316.491"
+600,Hawaii,37.3,2008,Millions of hours,885.161
+610,Idaho,25.9,2008,Millions of hours,989.708
+620,Illinois,38.7,2008,Millions of hours,"8,920.829"
+630,Indiana,45.3,2008,Millions of hours,"4,495.105"
+640,Iowa,38.8,2008,Millions of hours,"2,241.452"
+650,Kansas,32.3,2008,Millions of hours,"2,087.325"
+660,Kentucky,42.9,2008,Millions of hours,"2,914.638"
+670,Louisiana,39.4,2008,Millions of hours,"2,996.074"
+680,Maine,33.7,2008,Millions of hours,963.845
+690,Maryland,45.6,2008,Millions of hours,"3,814.351"
+700,Massachusetts,41.2,2008,Millions of hours,"5,066.100"
+710,Michigan,40.3,2008,Millions of hours,"6,203.843"
+720,Minnesota,35.0,2008,Millions of hours,"4,067.375"
+730,Mississippi,44.1,2008,Millions of hours,"1,685.642"
+740,Missouri,43.1,2008,Millions of hours,"4,269.666"
+750,Montana,21.7,2008,Millions of hours,638.438
+760,Nebraska,30.8,2008,Millions of hours,"1,449.717"
+770,Nevada,33.3,2008,Millions of hours,"2,130.556"
+780,New Hampshire,36.4,2008,Millions of hours,968.343
+790,New Jersey,41.0,2008,Millions of hours,"5,946.838"
+800,New Mexico,30.3,2008,Millions of hours,"1,242.896"
+810,New York,38.1,2008,Millions of hours,"12,901.974"
+820,North Carolina,45.5,2008,Millions of hours,"6,158.790"
+830,North Dakota,31.3,2008,Millions of hours,506.157
+840,Ohio,43.2,2008,Millions of hours,"7,992.784"
+850,Oklahoma,38.5,2008,Millions of hours,"2,376.569"
+860,Oregon,32.9,2008,Millions of hours,"2,646.206"
+870,Pennsylvania,41.7,2008,Millions of hours,"8,899.242"
+880,Rhode Island,41.3,2008,Millions of hours,748.352
+890,South Carolina,42.8,2008,Millions of hours,"2,949.079"
+900,South Dakota,33.1,2008,Millions of hours,585.850
+910,Tennessee,40.9,2008,Millions of hours,"4,490.705"
+920,Texas,39.8,2008,Millions of hours,"16,952.154"
+930,Utah,43.3,2008,Millions of hours,"1,882.920"
+940,Vermont,30.2,2008,Millions of hours,482.205
+950,Virginia,35.3,2008,Millions of hours,"5,617.968"
+960,Washington,27.4,2008,Millions of hours,"4,499.201"
+970,West Virginia,42.5,2008,Millions of hours,"1,069.571"
+980,Wisconsin,39.9,2008,Millions of hours,"4,204.468"
+990,Wyoming,32.7,2008,Millions of hours,450.804
+1000,Alabama,39.5,2009,Millions of hours,"2,715.492"
+1010,Alaska,18.0,2009,Millions of hours,452.619
+1020,Arizona,45.4,2009,Millions of hours,"3,801.730"
+1030,Arkansas,39.1,2009,Millions of hours,"1,720.544"
+1040,California,47.6,2009,Millions of hours,"22,379.946"
+1050,Colorado,35.4,2009,Millions of hours,"3,387.571"
+1060,Connecticut,36.4,2009,Millions of hours,"2,406.655"
+1070,Delaware,44.0,2009,Millions of hours,591.647
+1080,Florida,38.4,2009,Millions of hours,"11,239.122"
+1090,Georgia,42.6,2009,Millions of hours,"5,832.288"
+1100,Hawaii,36.0,2009,Millions of hours,821.556
+1110,Idaho,25.0,2009,Millions of hours,892.631
+1120,Illinois,37.8,2009,Millions of hours,"8,433.163"
+1130,Indiana,43.8,2009,Millions of hours,"4,165.325"
+1140,Iowa,37.2,2009,Millions of hours,"2,137.353"
+1150,Kansas,30.4,2009,Millions of hours,"1,957.118"
+1160,Kentucky,38.6,2009,Millions of hours,"2,679.947"
+1170,Louisiana,38.6,2009,Millions of hours,"2,894.770"
+1180,Maine,32.5,2009,Millions of hours,902.757
+1190,Maryland,42.6,2009,Millions of hours,"3,642.280"
+1200,Massachusetts,37.0,2009,Millions of hours,"4,829.781"
+1210,Michigan,37.9,2009,Millions of hours,"5,565.305"
+1220,Minnesota,33.6,2009,Millions of hours,"3,767.645"
+1230,Mississippi,40.6,2009,Millions of hours,"1,592.305"
+1240,Missouri,40.1,2009,Millions of hours,"3,943.695"
+1250,Montana,25.1,2009,Millions of hours,579.966
+1260,Nebraska,26.0,2009,Millions of hours,"1,388.627"
+1270,Nevada,33.8,2009,Millions of hours,"1,837.029"
+1280,New Hampshire,34.9,2009,Millions of hours,924.414
+1290,New Jersey,37.3,2009,Millions of hours,"5,639.002"
+1300,New Mexico,29.6,2009,Millions of hours,"1,170.429"
+1310,New York,36.1,2009,Millions of hours,"12,363.223"
+1320,North Carolina,39.3,2009,Millions of hours,"5,661.336"
+1330,North Dakota,30.6,2009,Millions of hours,485.735
+1340,Ohio,40.1,2009,Millions of hours,"7,338.385"
+1350,Oklahoma,40.6,2009,Millions of hours,"2,267.433"
+1360,Oregon,30.3,2009,Millions of hours,"2,383.707"
+1370,Pennsylvania,41.6,2009,Millions of hours,"8,394.381"
+1380,Rhode Island,36.3,2009,Millions of hours,703.936
+1390,South Carolina,36.6,2009,Millions of hours,"2,680.593"
+1400,South Dakota,33.4,2009,Millions of hours,578.512
+1410,Tennessee,35.2,2009,Millions of hours,"4,124.918"
+1420,Texas,38.6,2009,Millions of hours,"15,893.823"
+1430,Utah,42.0,2009,Millions of hours,"1,826.763"
+1440,Vermont,34.3,2009,Millions of hours,451.989
+1450,Virginia,31.2,2009,Millions of hours,"5,266.634"
+1460,Washington,28.0,2009,Millions of hours,"4,254.491"
+1470,West Virginia,40.1,2009,Millions of hours,"1,009.215"
+1480,Wisconsin,36.4,2009,Millions of hours,"3,907.097"
+1490,Wyoming,30.3,2009,Millions of hours,409.846
+1500,Alabama,46.2,2010,Millions of hours,"2,727.896"
+1510,Alaska,19.8,2010,Millions of hours,459.836
+1520,Arizona,42.9,2010,Millions of hours,"3,769.834"
+1530,Arkansas,43.7,2010,Millions of hours,"1,713.362"
+1540,California,45.3,2010,Millions of hours,"22,332.549"
+1550,Colorado,36.5,2010,Millions of hours,"3,349.267"
+1560,Connecticut,39.8,2010,Millions of hours,"2,407.037"
+1570,Delaware,46.7,2010,Millions of hours,578.474
+1580,Florida,40.4,2010,Millions of hours,"11,248.163"
+1590,Georgia,46.3,2010,Millions of hours,"5,743.520"
+1600,Hawaii,40.3,2010,Millions of hours,827.376
+1610,Idaho,28.2,2010,Millions of hours,891.088
+1620,Illinois,40.2,2010,Millions of hours,"8,431.818"
+1630,Indiana,47.5,2010,Millions of hours,"4,233.951"
+1640,Iowa,39.4,2010,Millions of hours,"2,188.948"
+1650,Kansas,33.4,2010,Millions of hours,"1,913.744"
+1660,Kentucky,43.8,2010,Millions of hours,"2,665.207"
+1670,Louisiana,42.2,2010,Millions of hours,"2,895.188"
+1680,Maine,34.1,2010,Millions of hours,906.127
+1690,Maryland,46.4,2010,Millions of hours,"3,574.197"
+1700,Massachusetts,38.8,2010,Millions of hours,"4,883.480"
+1710,Michigan,38.3,2010,Millions of hours,"5,624.684"
+1720,Minnesota,33.1,2010,Millions of hours,"3,802.482"
+1730,Mississippi,44.3,2010,Millions of hours,"1,598.967"
+1740,Missouri,43.9,2010,Millions of hours,"3,912.397"
+1750,Montana,27.9,2010,Millions of hours,606.333
+1760,Nebraska,29.8,2010,Millions of hours,"1,394.775"
+1770,Nevada,32.6,2010,Millions of hours,"1,733.169"
+1780,New Hampshire,38.3,2010,Millions of hours,938.205
+1790,New Jersey,40.8,2010,Millions of hours,"5,565.849"
+1800,New Mexico,30.3,2010,Millions of hours,"1,117.354"
+1810,New York,37.1,2010,Millions of hours,"12,411.384"
+1820,North Carolina,44.1,2010,Millions of hours,"5,647.039"
+1830,North Dakota,34.4,2010,Millions of hours,510.189
+1840,Ohio,46.4,2010,Millions of hours,"7,390.831"
+1850,Oklahoma,40.2,2010,Millions of hours,"2,269.964"
+1860,Oregon,25.4,2010,Millions of hours,"2,404.388"
+1870,Pennsylvania,45.2,2010,Millions of hours,"8,422.209"
+1880,Rhode Island,39.3,2010,Millions of hours,700.108
+1890,South Carolina,40.8,2010,Millions of hours,"2,662.486"
+1900,South Dakota,34.7,2010,Millions of hours,585.327
+1910,Tennessee,41.3,2010,Millions of hours,"4,098.968"
+1920,Texas,38.2,2010,Millions of hours,"16,125.772"
+1930,Utah,41.6,2010,Millions of hours,"1,785.892"
+1940,Vermont,34.3,2010,Millions of hours,451.036
+1950,Virginia,36.1,2010,Millions of hours,"5,381.050"
+1960,Washington,23.8,2010,Millions of hours,"4,171.189"
+1970,West Virginia,43.3,2010,Millions of hours,"1,007.732"
+1980,Wisconsin,37.9,2010,Millions of hours,"3,926.362"
+1990,Wyoming,32.1,2010,Millions of hours,407.412
+2000,Alabama,42.8,2011,Millions of hours,"2,738.003"
+2010,Alaska,22.4,2011,Millions of hours,487.658
+2020,Arizona,45.8,2011,Millions of hours,"3,773.207"
+2030,Arkansas,42.8,2011,Millions of hours,"1,754.211"
+2040,California,49.4,2011,Millions of hours,"22,780.785"
+2050,Colorado,38.8,2011,Millions of hours,"3,425.386"
+2060,Connecticut,39.5,2011,Millions of hours,"2,478.442"
+2070,Delaware,44.0,2011,Millions of hours,599.232
+2080,Florida,38.7,2011,Millions of hours,"11,206.454"
+2090,Georgia,46.7,2011,Millions of hours,"5,845.105"
+2100,Hawaii,32.2,2011,Millions of hours,839.778
+2110,Idaho,25.4,2011,Millions of hours,916.492
+2120,Illinois,40.7,2011,Millions of hours,"8,573.563"
+2130,Indiana,45.7,2011,Millions of hours,"4,309.532"
+2140,Iowa,41.2,2011,Millions of hours,"2,195.573"
+2150,Kansas,35.4,2011,Millions of hours,"1,952.780"
+2160,Kentucky,42.2,2011,Millions of hours,"2,657.183"
+2170,Louisiana,42.3,2011,Millions of hours,"2,881.407"
+2180,Maine,33.1,2011,Millions of hours,907.862
+2190,Maryland,45.3,2011,Millions of hours,"3,667.978"
+2200,Massachusetts,40.1,2011,Millions of hours,"4,912.749"
+2210,Michigan,37.7,2011,Millions of hours,"5,906.145"
+2220,Minnesota,34.0,2011,Millions of hours,"3,915.696"
+2230,Mississippi,43.4,2011,Millions of hours,"1,583.417"
+2240,Missouri,45.0,2011,Millions of hours,"4,032.453"
+2250,Montana,27.5,2011,Millions of hours,619.922
+2260,Nebraska,30.3,2011,Millions of hours,"1,406.607"
+2270,Nevada,33.0,2011,Millions of hours,"1,754.707"
+2280,New Hampshire,39.1,2011,Millions of hours,949.792
+2290,New Jersey,41.4,2011,Millions of hours,"5,616.388"
+2300,New Mexico,32.6,2011,Millions of hours,"1,133.296"
+2310,New York,37.5,2011,Millions of hours,"12,670.741"
+2320,North Carolina,43.7,2011,Millions of hours,"5,797.335"
+2330,North Dakota,36.6,2011,Millions of hours,571.468
+2340,Ohio,42.6,2011,Millions of hours,"7,579.232"
+2350,Oklahoma,45.3,2011,Millions of hours,"2,268.371"
+2360,Oregon,25.8,2011,Millions of hours,"2,441.317"
+2370,Pennsylvania,44.4,2011,Millions of hours,"8,560.111"
+2380,Rhode Island,40.0,2011,Millions of hours,686.551
+2390,South Carolina,42.9,2011,Millions of hours,"2,686.582"
+2400,South Dakota,33.9,2011,Millions of hours,596.825
+2410,Tennessee,40.2,2011,Millions of hours,"4,182.756"
+2420,Texas,41.5,2011,Millions of hours,"16,960.403"
+2430,Utah,41.8,2011,Millions of hours,"1,782.563"
+2440,Vermont,31.0,2011,Millions of hours,455.572
+2450,Virginia,33.3,2011,Millions of hours,"5,435.662"
+2460,Washington,24.3,2011,Millions of hours,"4,267.925"
+2470,West Virginia,39.4,2011,Millions of hours,"1,019.177"
+2480,Wisconsin,37.4,2011,Millions of hours,"4,013.622"
+2490,Wyoming,34.2,2011,Millions of hours,411.802
+2500,Alabama,40.1,2012,Millions of hours,"2,833.266"
+2510,Alaska,22.0,2012,Millions of hours,482.361
+2520,Arizona,46.6,2012,Millions of hours,"3,844.820"
+2530,Arkansas,40.9,2012,Millions of hours,"1,757.286"
+2540,California,48.7,2012,Millions of hours,"23,347.916"
+2550,Colorado,40.3,2012,Millions of hours,"3,546.919"
+2560,Connecticut,42.4,2012,Millions of hours,"2,526.278"
+2570,Delaware,43.3,2012,Millions of hours,606.056
+2580,Florida,36.9,2012,Millions of hours,"11,337.087"
+2590,Georgia,43.0,2012,Millions of hours,"6,018.924"
+2600,Hawaii,36.2,2012,Millions of hours,886.562
+2610,Idaho,24.6,2012,Millions of hours,914.175
+2620,Illinois,41.0,2012,Millions of hours,"8,746.773"
+2630,Indiana,45.6,2012,Millions of hours,"4,343.936"
+2640,Iowa,42.4,2012,Millions of hours,"2,257.744"
+2650,Kansas,34.8,2012,Millions of hours,"2,007.928"
+2660,Kentucky,42.4,2012,Millions of hours,"2,670.105"
+2670,Louisiana,41.3,2012,Millions of hours,"2,975.614"
+2680,Maine,34.0,2012,Millions of hours,924.881
+2690,Maryland,45.3,2012,Millions of hours,"3,661.269"
+2700,Massachusetts,38.3,2012,Millions of hours,"4,998.365"
+2710,Michigan,40.2,2012,Millions of hours,"6,036.743"
+2720,Minnesota,33.4,2012,Millions of hours,"3,995.336"
+2730,Mississippi,40.5,2012,Millions of hours,"1,601.273"
+2740,Missouri,45.2,2012,Millions of hours,"4,053.138"
+2750,Montana,28.4,2012,Millions of hours,642.849
+2760,Nebraska,33.4,2012,Millions of hours,"1,431.951"
+2770,Nevada,36.2,2012,Millions of hours,"1,762.989"
+2780,New Hampshire,38.1,2012,Millions of hours,960.705
+2790,New Jersey,40.6,2012,Millions of hours,"5,694.116"
+2800,New Mexico,32.8,2012,Millions of hours,"1,132.100"
+2810,New York,36.1,2012,Millions of hours,"12,852.204"
+2820,North Carolina,40.3,2012,Millions of hours,"5,975.757"
+2830,North Dakota,36.5,2012,Millions of hours,641.541
+2840,Ohio,44.8,2012,Millions of hours,"7,842.379"
+2850,Oklahoma,43.2,2012,Millions of hours,"2,374.284"
+2860,Oregon,27.4,2012,Millions of hours,"2,490.495"
+2870,Pennsylvania,44.5,2012,Millions of hours,"8,564.731"
+2880,Rhode Island,39.0,2012,Millions of hours,695.767
+2890,South Carolina,39.6,2012,Millions of hours,"2,752.332"
+2900,South Dakota,38.9,2012,Millions of hours,620.710
+2910,Tennessee,40.2,2012,Millions of hours,"4,252.728"
+2920,Texas,40.2,2012,Millions of hours,"17,542.314"
+2930,Utah,44.1,2012,Millions of hours,"1,845.819"
+2940,Vermont,30.0,2012,Millions of hours,464.695
+2950,Virginia,32.5,2012,Millions of hours,"5,511.136"
+2960,Washington,26.3,2012,Millions of hours,"4,386.850"
+2970,West Virginia,39.9,2012,Millions of hours,"1,032.777"
+2980,Wisconsin,37.3,2012,Millions of hours,"4,080.102"
+2990,Wyoming,36.7,2012,Millions of hours,420.695
+3000,Alabama,37.4,2013,Millions of hours,"2,880.843"
+3010,Alaska,20.4,2013,Millions of hours,487.658
+3020,Arizona,44.3,2013,Millions of hours,"3,915.421"
+3030,Arkansas,37.7,2013,Millions of hours,"1,739.377"
+3040,California,49.4,2013,Millions of hours,"24,192.767"
+3050,Colorado,39.6,2013,Millions of hours,"3,634.266"
+3060,Connecticut,44.0,2013,Millions of hours,"2,483.673"
+3070,Delaware,42.0,2013,Millions of hours,611.073
+3080,Florida,35.0,2013,Millions of hours,"11,803.500"
+3090,Georgia,38.4,2013,Millions of hours,"6,088.217"
+3100,Hawaii,32.2,2013,Millions of hours,880.499
+3110,Idaho,25.5,2013,Millions of hours,922.541
+3120,Illinois,38.9,2013,Millions of hours,"8,765.551"
+3130,Indiana,43.0,2013,Millions of hours,"4,432.856"
+3140,Iowa,40.8,2013,Millions of hours,"2,286.032"
+3150,Kansas,32.4,2013,Millions of hours,"2,001.909"
+3160,Kentucky,38.5,2013,Millions of hours,"2,674.773"
+3170,Louisiana,38.6,2013,Millions of hours,"2,998.835"
+3180,Maine,34.7,2013,Millions of hours,931.075
+3190,Maryland,42.1,2013,Millions of hours,"3,668.303"
+3200,Massachusetts,38.3,2013,Millions of hours,"5,040.126"
+3210,Michigan,37.9,2013,Millions of hours,"6,165.473"
+3220,Minnesota,33.9,2013,Millions of hours,"4,055.274"
+3230,Mississippi,37.3,2013,Millions of hours,"1,609.453"
+3240,Missouri,41.9,2013,Millions of hours,"4,081.299"
+3250,Montana,27.7,2013,Millions of hours,644.499
+3260,Nebraska,27.0,2013,Millions of hours,"1,461.463"
+3270,Nevada,37.5,2013,Millions of hours,"1,774.251"
+3280,New Hampshire,37.9,2013,Millions of hours,987.365
+3290,New Jersey,39.1,2013,Millions of hours,"5,676.395"
+3300,New Mexico,33.5,2013,Millions of hours,"1,153.167"
+3310,New York,35.4,2013,Millions of hours,"13,118.890"
+3320,North Carolina,37.2,2013,Millions of hours,"6,029.783"
+3330,North Dakota,36.7,2013,Millions of hours,674.927
+3340,Ohio,40.2,2013,Millions of hours,"7,928.606"
+3350,Oklahoma,39.3,2013,Millions of hours,"2,383.776"
+3360,Oregon,31.6,2013,Millions of hours,"2,535.640"
+3370,Pennsylvania,42.5,2013,Millions of hours,"8,611.194"
+3380,Rhode Island,39.3,2013,Millions of hours,703.181
+3390,South Carolina,35.8,2013,Millions of hours,"2,825.711"
+3400,South Dakota,37.4,2013,Millions of hours,622.043
+3410,Tennessee,38.4,2013,Millions of hours,"4,334.184"
+3420,Texas,38.6,2013,Millions of hours,"18,011.326"
+3430,Utah,44.7,2013,Millions of hours,"1,920.353"
+3440,Vermont,30.2,2013,Millions of hours,468.633
+3450,Virginia,31.1,2013,Millions of hours,"5,443.498"
+3460,Washington,27.4,2013,Millions of hours,"4,396.213"
+3470,West Virginia,36.0,2013,Millions of hours,"1,045.100"
+3480,Wisconsin,35.4,2013,Millions of hours,"4,169.021"
+3490,Wyoming,36.7,2013,Millions of hours,420.995
+3500,Alabama,38.2,2014,Millions of hours,"2,849.259"
+3510,Alaska,23.4,2014,Millions of hours,473.701
+3520,Arizona,43.6,2014,Millions of hours,"3,969.139"
+3530,Arkansas,36.2,2014,Millions of hours,"1,754.290"
+3540,California,48.9,2014,Millions of hours,"24,907.289"
+3550,Colorado,36.5,2014,Millions of hours,"3,723.957"
+3560,Connecticut,41.9,2014,Millions of hours,"2,524.887"
+3570,Delaware,44.7,2014,Millions of hours,625.618
+3580,Florida,36.5,2014,Millions of hours,"12,235.769"
+3590,Georgia,40.9,2014,Millions of hours,"6,344.810"
+3600,Hawaii,30.2,2014,Millions of hours,913.735
+3610,Idaho,26.6,2014,Millions of hours,955.183
+3620,Illinois,39.0,2014,Millions of hours,"8,902.067"
+3630,Indiana,42.4,2014,Millions of hours,"4,525.103"
+3640,Iowa,38.5,2014,Millions of hours,"2,347.894"
+3650,Kansas,32.3,2014,Millions of hours,"2,023.728"
+3660,Kentucky,39.0,2014,Millions of hours,"2,734.767"
+3670,Louisiana,38.2,2014,Millions of hours,"3,108.550"
+3680,Maine,34.4,2014,Millions of hours,926.403
+3690,Maryland,43.1,2014,Millions of hours,"3,716.906"
+3700,Massachusetts,38.5,2014,Millions of hours,"5,151.034"
+3710,Michigan,38.5,2014,Millions of hours,"6,283.521"
+3720,Minnesota,31.8,2014,Millions of hours,"4,165.749"
+3730,Mississippi,38.2,2014,Millions of hours,"1,632.372"
+3740,Missouri,40.2,2014,Millions of hours,"4,096.162"
+3750,Montana,27.1,2014,Millions of hours,645.434
+3760,Nebraska,25.5,2014,Millions of hours,"1,455.429"
+3770,Nevada,41.0,2014,Millions of hours,"1,829.550"
+3780,New Hampshire,37.6,2014,Millions of hours,987.029
+3790,New Jersey,39.6,2014,Millions of hours,"5,767.633"
+3800,New Mexico,33.1,2014,Millions of hours,"1,139.457"
+3810,New York,35.2,2014,Millions of hours,"13,315.161"
+3820,North Carolina,39.8,2014,Millions of hours,"6,153.795"
+3830,North Dakota,34.9,2014,Millions of hours,701.773
+3840,Ohio,40.4,2014,Millions of hours,"8,022.760"
+3850,Oklahoma,39.0,2014,Millions of hours,"2,451.392"
+3860,Oregon,27.7,2014,Millions of hours,"2,632.383"
+3870,Pennsylvania,42.8,2014,Millions of hours,"8,774.070"
+3880,Rhode Island,37.0,2014,Millions of hours,723.251
+3890,South Carolina,38.1,2014,Millions of hours,"2,851.970"
+3900,South Dakota,33.2,2014,Millions of hours,623.287
+3910,Tennessee,38.1,2014,Millions of hours,"4,456.075"
+3920,Texas,37.7,2014,Millions of hours,"18,756.280"
+3930,Utah,41.4,2014,Millions of hours,"1,966.838"
+3940,Vermont,29.0,2014,Millions of hours,456.298
+3950,Virginia,31.8,2014,Millions of hours,"5,534.145"
+3960,Washington,25.2,2014,Millions of hours,"4,491.908"
+3970,West Virginia,35.3,2014,Millions of hours,"1,038.289"
+3980,Wisconsin,38.4,2014,Millions of hours,"4,244.110"
+3990,Wyoming,35.1,2014,Millions of hours,436.807
+4000,Alabama,39.3,2015,Millions of hours,"2,898.059"
+4010,Alaska,23.1,2015,Millions of hours,475.262
+4020,Arizona,40.5,2015,Millions of hours,"4,133.559"
+4030,Arkansas,35.1,2015,Millions of hours,"1,785.401"
+4040,California,49.4,2015,Millions of hours,"25,691.855"
+4050,Colorado,35.5,2015,Millions of hours,"3,772.782"
+4060,Connecticut,41.0,2015,Millions of hours,"2,534.422"
+4070,Delaware,43.7,2015,Millions of hours,644.750
+4080,Florida,34.7,2015,Millions of hours,"12,613.926"
+4090,Georgia,37.8,2015,Millions of hours,"6,492.877"
+4100,Hawaii,32.8,2015,Millions of hours,916.596
+4110,Idaho,24.8,2015,Millions of hours,995.993
+4120,Illinois,39.5,2015,Millions of hours,"9,062.324"
+4130,Indiana,40.0,2015,Millions of hours,"4,649.887"
+4140,Iowa,37.3,2015,Millions of hours,"2,367.041"
+4150,Kansas,32.2,2015,Millions of hours,"2,046.852"
+4160,Kentucky,39.3,2015,Millions of hours,"2,836.507"
+4170,Louisiana,36.7,2015,Millions of hours,"3,082.842"
+4180,Maine,33.8,2015,Millions of hours,974.080
+4190,Maryland,43.4,2015,Millions of hours,"3,785.651"
+4200,Massachusetts,36.2,2015,Millions of hours,"5,235.769"
+4210,Michigan,38.4,2015,Millions of hours,"6,488.867"
+4220,Minnesota,31.4,2015,Millions of hours,"4,268.128"
+4230,Mississippi,35.6,2015,Millions of hours,"1,636.299"
+4240,Missouri,39.0,2015,Millions of hours,"4,183.076"
+4250,Montana,28.5,2015,Millions of hours,657.047
+4260,Nebraska,26.0,2015,Millions of hours,"1,463.332"
+4270,Nevada,39.6,2015,Millions of hours,"1,921.183"
+4280,New Hampshire,37.4,2015,Millions of hours,"1,008.783"
+4290,New Jersey,39.6,2015,Millions of hours,"5,907.345"
+4300,New Mexico,30.2,2015,Millions of hours,"1,138.985"
+4310,New York,35.7,2015,Millions of hours,"13,732.311"
+4320,North Carolina,38.8,2015,Millions of hours,"6,366.078"
+4330,North Dakota,32.8,2015,Millions of hours,669.668
+4340,Ohio,39.1,2015,Millions of hours,"8,201.331"
+4350,Oklahoma,35.7,2015,Millions of hours,"2,412.501"
+4360,Oregon,28.9,2015,Millions of hours,"2,706.710"
+4370,Pennsylvania,42.6,2015,Millions of hours,"8,941.810"
+4380,Rhode Island,39.7,2015,Millions of hours,734.565
+4390,South Carolina,35.9,2015,Millions of hours,"2,999.036"
+4400,South Dakota,33.3,2015,Millions of hours,628.781
+4410,Tennessee,36.3,2015,Millions of hours,"4,530.716"
+4420,Texas,37.1,2015,Millions of hours,"19,037.681"
+4430,Utah,40.5,2015,Millions of hours,"2,016.269"
+4440,Vermont,29.0,2015,Millions of hours,465.239
+4450,Virginia,32.2,2015,Millions of hours,"5,606.287"
+4460,Washington,27.2,2015,Millions of hours,"4,656.163"
+4470,West Virginia,35.7,2015,Millions of hours,"1,038.765"
+4480,Wisconsin,37.6,2015,Millions of hours,"4,287.725"
+4490,Wyoming,34.8,2015,Millions of hours,416.763
+4500,Alabama,39.4,2016,Millions of hours,"2,965.173"
+4510,Alaska,24.1,2016,Millions of hours,462.165
+4520,Arizona,42.5,2016,Millions of hours,"4,199.313"
+4530,Arkansas,36.4,2016,Millions of hours,"1,811.700"
+4540,California,46.4,2016,Millions of hours,"26,262.867"
+4550,Colorado,35.2,2016,Millions of hours,"3,824.261"
+4560,Connecticut,40.2,2016,Millions of hours,"2,594.188"
+4570,Delaware,41.3,2016,Millions of hours,656.747
+4580,Florida,37.2,2016,Millions of hours,"12,960.099"
+4590,Georgia,38.5,2016,Millions of hours,"6,661.306"
+4600,Hawaii,31.8,2016,Millions of hours,917.075
+4610,Idaho,24.6,2016,Millions of hours,"1,006.015"
+4620,Illinois,38.4,2016,Millions of hours,"8,997.128"
+4630,Indiana,37.8,2016,Millions of hours,"4,684.082"
+4640,Iowa,35.6,2016,Millions of hours,"2,357.834"
+4650,Kansas,31.9,2016,Millions of hours,"2,000.572"
+4660,Kentucky,39.8,2016,Millions of hours,"2,873.174"
+4670,Louisiana,37.2,2016,Millions of hours,"2,993.432"
+4680,Maine,32.1,2016,Millions of hours,976.044
+4690,Maryland,41.2,2016,Millions of hours,"3,834.600"
+4700,Massachusetts,35.8,2016,Millions of hours,"5,342.121"
+4710,Michigan,36.7,2016,Millions of hours,"6,604.400"
+4720,Minnesota,28.6,2016,Millions of hours,"4,330.269"
+4730,Mississippi,36.9,2016,Millions of hours,"1,625.543"
+4740,Missouri,37.6,2016,Millions of hours,"4,170.988"
+4750,Montana,26.7,2016,Millions of hours,668.951
+4760,Nebraska,25.4,2016,Millions of hours,"1,461.033"
+4770,Nevada,36.8,2016,Millions of hours,"2,002.357"
+4780,New Hampshire,36.0,2016,Millions of hours,"1,025.741"
+4790,New Jersey,39.6,2016,Millions of hours,"6,032.513"
+4800,New Mexico,30.6,2016,Millions of hours,"1,119.535"
+4810,New York,34.8,2016,Millions of hours,"13,784.757"
+4820,North Carolina,39.1,2016,Millions of hours,"6,501.753"
+4830,North Dakota,29.9,2016,Millions of hours,621.512
+4840,Ohio,38.3,2016,Millions of hours,"8,211.513"
+4850,Oklahoma,36.2,2016,Millions of hours,"2,427.187"
+4860,Oregon,24.6,2016,Millions of hours,"2,813.447"
+4870,Pennsylvania,41.4,2016,Millions of hours,"8,971.564"
+4880,Rhode Island,37.0,2016,Millions of hours,724.541
+4890,South Carolina,37.3,2016,Millions of hours,"3,055.662"
+4900,South Dakota,30.9,2016,Millions of hours,634.739
+4910,Tennessee,36.6,2016,Millions of hours,"4,725.478"
+4920,Texas,36.2,2016,Millions of hours,"19,031.865"
+4930,Utah,39.5,2016,Millions of hours,"2,096.057"
+4940,Vermont,29.0,2016,Millions of hours,467.524
+4950,Virginia,30.0,2016,Millions of hours,"5,657.126"
+4960,Washington,24.1,2016,Millions of hours,"4,831.538"
+4970,West Virginia,35.4,2016,Millions of hours,"1,018.044"
+4980,Wisconsin,36.0,2016,Millions of hours,"4,362.688"
+4990,Wyoming,37.3,2016,Millions of hours,378.487
+5000,Alabama,38.4,2017,Millions of hours,"2,979.915"
+5010,Alaska,22.0,2017,Millions of hours,459.025
+5020,Arizona,44.2,2017,Millions of hours,"4,362.743"
+5030,Arkansas,37.1,2017,Millions of hours,"1,868.708"
+5040,California,49.0,2017,Millions of hours,"26,867.506"
+5050,Colorado,36.4,2017,Millions of hours,"3,902.861"
+5060,Connecticut,38.2,2017,Millions of hours,"2,544.033"
+5070,Delaware,41.3,2017,Millions of hours,651.230
+5080,Florida,37.0,2017,Millions of hours,"13,267.073"
+5090,Georgia,37.2,2017,Millions of hours,"6,830.328"
+5100,Hawaii,28.8,2017,Millions of hours,920.102
+5110,Idaho,28.4,2017,Millions of hours,"1,063.296"
+5120,Illinois,40.8,2017,Millions of hours,"9,073.554"
+5130,Indiana,38.3,2017,Millions of hours,"4,765.865"
+5140,Iowa,36.8,2017,Millions of hours,"2,359.232"
+5150,Kansas,32.6,2017,Millions of hours,"2,030.235"
+5160,Kentucky,39.5,2017,Millions of hours,"2,905.745"
+5170,Louisiana,36.4,2017,Millions of hours,"3,054.511"
+5180,Maine,33.8,2017,Millions of hours,983.711
+5190,Maryland,40.9,2017,Millions of hours,"3,951.271"
+5200,Massachusetts,37.5,2017,Millions of hours,"5,432.515"
+5210,Michigan,36.6,2017,Millions of hours,"6,666.136"
+5220,Minnesota,31.6,2017,Millions of hours,"4,394.321"
+5230,Mississippi,35.8,2017,Millions of hours,"1,658.812"
+5240,Missouri,39.8,2017,Millions of hours,"4,217.239"
+5250,Montana,30.9,2017,Millions of hours,669.060
+5260,Nebraska,28.9,2017,Millions of hours,"1,510.023"
+5270,Nevada,38.1,2017,Millions of hours,"2,079.611"
+5280,New Hampshire,36.0,2017,Millions of hours,"1,036.937"
+5290,New Jersey,38.4,2017,Millions of hours,"6,066.967"
+5300,New Mexico,31.9,2017,Millions of hours,"1,145.600"
+5310,New York,34.4,2017,Millions of hours,"13,876.186"
+5320,North Carolina,38.9,2017,Millions of hours,"6,593.718"
+5330,North Dakota,33.0,2017,Millions of hours,628.081
+5340,Ohio,37.5,2017,Millions of hours,"8,272.532"
+5350,Oklahoma,36.8,2017,Millions of hours,"2,469.974"
+5360,Oregon,28.7,2017,Millions of hours,"2,875.054"
+5370,Pennsylvania,41.5,2017,Millions of hours,"9,035.869"
+5380,Rhode Island,34.3,2017,Millions of hours,727.406
+5390,South Carolina,35.6,2017,Millions of hours,"3,119.992"
+5400,South Dakota,31.6,2017,Millions of hours,628.088
+5410,Tennessee,36.8,2017,Millions of hours,"4,793.414"
+5420,Texas,37.2,2017,Millions of hours,"19,435.144"
+5430,Utah,44.2,2017,Millions of hours,"2,181.882"
+5440,Vermont,29.2,2017,Millions of hours,467.434
+5450,Virginia,31.2,2017,Millions of hours,"5,736.641"
+5460,Washington,26.7,2017,Millions of hours,"5,032.621"
+5470,West Virginia,36.0,2017,Millions of hours,"1,019.128"
+5480,Wisconsin,37.0,2017,Millions of hours,"4,465.286"
+5490,Wyoming,38.6,2017,Millions of hours,384.784
+5500,Alabama,36.8,2018,Millions of hours,"3,024.191"
+5510,Alaska,22.0,2018,Millions of hours,464.092
+5520,Arizona,43.1,2018,Millions of hours,"4,522.324"
+5530,Arkansas,35.4,2018,Millions of hours,"1,896.015"
+5540,California,48.8,2018,Millions of hours,"27,540.370"
+5550,Colorado,39.1,2018,Millions of hours,"4,049.827"
+5560,Connecticut,37.6,2018,Millions of hours,"2,593.377"
+5570,Delaware,40.0,2018,Millions of hours,662.959
+5580,Florida,34.8,2018,Millions of hours,"13,938.736"
+5590,Georgia,34.8,2018,Millions of hours,"6,927.042"
+5600,Hawaii,27.5,2018,Millions of hours,924.543
+5610,Idaho,27.0,2018,Millions of hours,"1,104.437"
+5620,Illinois,40.7,2018,Millions of hours,"9,218.306"
+5630,Indiana,36.3,2018,Millions of hours,"4,790.514"
+5640,Iowa,38.2,2018,Millions of hours,"2,354.247"
+5650,Kansas,32.6,2018,Millions of hours,"2,034.406"
+5660,Kentucky,38.3,2018,Millions of hours,"2,897.972"
+5670,Louisiana,35.0,2018,Millions of hours,"3,125.016"
+5680,Maine,35.0,2018,Millions of hours,989.760
+5690,Maryland,39.6,2018,Millions of hours,"4,036.256"
+5700,Massachusetts,36.9,2018,Millions of hours,"5,486.411"
+5710,Michigan,36.0,2018,Millions of hours,"6,773.438"
+5720,Minnesota,32.0,2018,Millions of hours,"4,405.578"
+5730,Mississippi,36.5,2018,Millions of hours,"1,666.380"
+5740,Missouri,38.0,2018,Millions of hours,"4,266.804"
+5750,Montana,29.5,2018,Millions of hours,689.204
+5760,Nebraska,28.0,2018,Millions of hours,"1,503.215"
+5770,Nevada,37.0,2018,Millions of hours,"2,151.680"
+5780,New Hampshire,36.9,2018,Millions of hours,"1,044.681"
+5790,New Jersey,38.4,2018,Millions of hours,"6,164.257"
+5800,New Mexico,33.2,2018,Millions of hours,"1,175.586"
+5810,New York,34.0,2018,Millions of hours,"14,005.046"
+5820,North Carolina,37.8,2018,Millions of hours,"6,725.005"
+5830,North Dakota,35.0,2018,Millions of hours,640.155
+5840,Ohio,36.8,2018,Millions of hours,"8,324.127"
+5850,Oklahoma,37.5,2018,Millions of hours,"2,549.625"
+5860,Oregon,29.2,2018,Millions of hours,"2,950.318"
+5870,Pennsylvania,37.7,2018,Millions of hours,"9,328.672"
+5880,Rhode Island,35.0,2018,Millions of hours,745.592
+5890,South Carolina,33.7,2018,Millions of hours,"3,196.279"
+5900,South Dakota,32.1,2018,Millions of hours,628.404
+5910,Tennessee,35.3,2018,Millions of hours,"4,887.553"
+5920,Texas,36.2,2018,Millions of hours,"20,092.394"
+5930,Utah,44.3,2018,Millions of hours,"2,258.249"
+5940,Vermont,29.8,2018,Millions of hours,468.642
+5950,Virginia,30.2,2018,Millions of hours,"5,888.524"
+5960,Washington,25.7,2018,Millions of hours,"5,111.986"
+5970,West Virginia,33.7,2018,Millions of hours,"1,037.251"
+5980,Wisconsin,39.3,2018,Millions of hours,"4,455.838"
+5990,Wyoming,39.6,2018,Millions of hours,396.962
+6000,Alabama,39.2,2019,Millions of hours,"3,048.612"
+6010,Alaska,19.2,2019,Millions of hours,478.570
+6020,Arizona,41.8,2019,Millions of hours,"4,619.904"
+6030,Arkansas,36.2,2019,Millions of hours,"1,917.970"
+6040,California,43.8,2019,Millions of hours,"27,479.218"
+6050,Colorado,34.1,2019,Millions of hours,"4,072.495"
+6060,Connecticut,39.5,2019,Millions of hours,"2,572.339"
+6070,Delaware,42.3,2019,Millions of hours,667.867
+6080,Florida,35.8,2019,Millions of hours,"14,012.725"
+6090,Georgia,38.6,2019,Millions of hours,"7,041.943"
+6100,Hawaii,17.8,2019,Millions of hours,920.187
+6110,Idaho,24.4,2019,Millions of hours,"1,123.900"
+6120,Illinois,41.5,2019,Millions of hours,"9,145.810"
+6130,Indiana,37.1,2019,Millions of hours,"4,864.128"
+6140,Iowa,34.4,2019,Millions of hours,"2,378.999"
+6150,Kansas,32.0,2019,Millions of hours,"2,057.674"
+6160,Kentucky,40.2,2019,Millions of hours,"2,917.108"
+6170,Louisiana,35.8,2019,Millions of hours,"3,121.591"
+6180,Maine,33.7,2019,Millions of hours,983.205
+6190,Maryland,40.6,2019,Millions of hours,"3,982.463"
+6200,Massachusetts,37.5,2019,Millions of hours,"5,535.658"
+6210,Michigan,34.8,2019,Millions of hours,"6,697.477"
+6220,Minnesota,29.5,2019,Millions of hours,"4,437.054"
+6230,Mississippi,38.6,2019,Millions of hours,"1,673.897"
+6240,Missouri,37.6,2019,Millions of hours,"4,320.882"
+6250,Montana,26.4,2019,Millions of hours,691.991
+6260,Nebraska,24.9,2019,Millions of hours,"1,486.284"
+6270,Nevada,34.0,2019,Millions of hours,"2,255.189"
+6280,New Hampshire,35.4,2019,Millions of hours,"1,044.246"
+6290,New Jersey,39.4,2019,Millions of hours,"6,217.886"
+6300,New Mexico,31.2,2019,Millions of hours,"1,188.040"
+6310,New York,34.7,2019,Millions of hours,"13,983.802"
+6320,North Carolina,38.9,2019,Millions of hours,"6,913.039"
+6330,North Dakota,32.7,2019,Millions of hours,646.257
+6340,Ohio,37.5,2019,Millions of hours,"8,358.070"
+6350,Oklahoma,36.2,2019,Millions of hours,"2,539.596"
+6360,Oregon,26.7,2019,Millions of hours,"2,968.901"
+6370,Pennsylvania,38.4,2019,Millions of hours,"9,422.189"
+6380,Rhode Island,37.0,2019,Millions of hours,745.195
+6390,South Carolina,33.6,2019,Millions of hours,"3,238.363"
+6400,South Dakota,31.2,2019,Millions of hours,635.782
+6410,Tennessee,36.2,2019,Millions of hours,"4,918.956"
+6420,Texas,38.0,2019,Millions of hours,"20,429.571"
+6430,Utah,42.2,2019,Millions of hours,"2,314.312"
+6440,Vermont,29.0,2019,Millions of hours,467.775
+6450,Virginia,32.2,2019,Millions of hours,"5,829.843"
+6460,Washington,24.9,2019,Millions of hours,"5,218.178"
+6470,West Virginia,35.9,2019,Millions of hours,"1,022.510"
+6480,Wisconsin,36.2,2019,Millions of hours,"4,409.367"
+6490,Wyoming,38.8,2019,Millions of hours,410.527
+6500,Alabama,35.2,2020,Millions of hours,"2,920.705"
+6510,Alaska,15.8,2020,Millions of hours,425.694
+6520,Arizona,47.1,2020,Millions of hours,"4,493.924"
+6530,Arkansas,33.0,2020,Millions of hours,"1,835.452"
+6540,California,48.0,2020,Millions of hours,"25,084.462"
+6550,Colorado,34.6,2020,Millions of hours,"3,849.613"
+6560,Connecticut,39.1,2020,Millions of hours,"2,426.493"
+6570,Delaware,38.0,2020,Millions of hours,608.344
+6580,Florida,35.8,2020,Millions of hours,"13,077.435"
+6590,Georgia,33.1,2020,Millions of hours,"6,602.137"
+6600,Hawaii,17.2,2020,Millions of hours,758.150
+6610,Idaho,25.9,2020,Millions of hours,"1,136.669"
+6620,Illinois,39.1,2020,Millions of hours,"8,545.610"
+6630,Indiana,35.8,2020,Millions of hours,"4,595.132"
+6640,Iowa,33.9,2020,Millions of hours,"2,236.461"
+6650,Kansas,31.5,2020,Millions of hours,"1,937.252"
+6660,Kentucky,36.2,2020,Millions of hours,"2,779.684"
+6670,Louisiana,33.9,2020,Millions of hours,"2,817.820"
+6680,Maine,33.5,2020,Millions of hours,904.565
+6690,Maryland,35.7,2020,Millions of hours,"3,659.881"
+6700,Massachusetts,36.5,2020,Millions of hours,"5,045.027"
+6710,Michigan,33.6,2020,Millions of hours,"5,995.625"
+6720,Minnesota,29.4,2020,Millions of hours,"4,198.729"
+6730,Mississippi,37.2,2020,Millions of hours,"1,585.227"
+6740,Missouri,35.0,2020,Millions of hours,"4,065.452"
+6750,Montana,25.9,2020,Millions of hours,668.007
+6760,Nebraska,25.2,2020,Millions of hours,"1,417.723"
+6770,Nevada,36.2,2020,Millions of hours,"1,986.603"
+6780,New Hampshire,36.1,2020,Millions of hours,974.968
+6790,New Jersey,36.9,2020,Millions of hours,"5,660.009"
+6800,New Mexico,31.9,2020,Millions of hours,"1,098.269"
+6810,New York,33.6,2020,Millions of hours,"12,469.524"
+6820,North Carolina,33.3,2020,Millions of hours,"6,625.499"
+6830,North Dakota,33.4,2020,Millions of hours,582.716
+6840,Ohio,34.9,2020,Millions of hours,"7,868.392"
+6850,Oklahoma,37.4,2020,Millions of hours,"2,388.406"
+6860,Oregon,27.4,2020,Millions of hours,"2,723.444"
+6870,Pennsylvania,36.4,2020,Millions of hours,"8,615.771"
+6880,Rhode Island,34.3,2020,Millions of hours,677.058
+6890,South Carolina,33.6,2020,Millions of hours,"3,006.743"
+6900,South Dakota,33.1,2020,Millions of hours,630.089
+6910,Tennessee,32.4,2020,Millions of hours,"4,720.296"
+6920,Texas,35.5,2020,Millions of hours,"19,272.745"
+6930,Utah,41.3,2020,Millions of hours,"2,236.019"
+6940,Vermont,29.2,2020,Millions of hours,421.166
+6950,Virginia,28.9,2020,Millions of hours,"5,494.080"
+6960,Washington,23.8,2020,Millions of hours,"4,966.513"
+6970,West Virginia,32.2,2020,Millions of hours,936.018
+6980,Wisconsin,36.2,2020,Millions of hours,"4,158.016"
+6990,Wyoming,35.5,2020,Millions of hours,375.206
+7000,Alabama,35.5,2021,Millions of hours,"3,018.770"
+7010,Alaska,17.2,2021,Millions of hours,439.685
+7020,Arizona,48.8,2021,Millions of hours,"4,663.462"
+7030,Arkansas,35.8,2021,Millions of hours,"1,940.210"
+7040,California,47.8,2021,Millions of hours,"26,422.574"
+7050,Colorado,35.9,2021,Millions of hours,"4,064.907"
+7060,Connecticut,38.0,2021,Millions of hours,"2,511.456"
+7070,Delaware,39.7,2021,Millions of hours,639.870
+7080,Florida,36.3,2021,Millions of hours,"14,270.111"
+7090,Georgia,36.4,2021,Millions of hours,"7,073.740"
+7100,Hawaii,18.2,2021,Millions of hours,816.372
+7110,Idaho,29.5,2021,Millions of hours,"1,208.974"
+7120,Illinois,41.3,2021,Millions of hours,"8,799.619"
+7130,Indiana,37.1,2021,Millions of hours,"4,860.574"
+7140,Iowa,37.2,2021,Millions of hours,"2,287.081"
+7150,Kansas,35.0,2021,Millions of hours,"1,972.101"
+7160,Kentucky,37.9,2021,Millions of hours,"2,896.173"
+7170,Louisiana,34.5,2021,Millions of hours,"2,878.537"
+7180,Maine,33.4,2021,Millions of hours,957.065
+7190,Maryland,38.9,2021,Millions of hours,"3,767.432"
+7200,Massachusetts,36.2,2021,Millions of hours,"5,298.286"
+7210,Michigan,36.9,2021,Millions of hours,"6,317.746"
+7220,Minnesota,33.1,2021,Millions of hours,"4,318.174"
+7230,Mississippi,36.8,2021,Millions of hours,"1,618.716"
+7240,Missouri,37.0,2021,Millions of hours,"4,163.691"
+7250,Montana,30.2,2021,Millions of hours,710.287
+7260,Nebraska,29.1,2021,Millions of hours,"1,455.606"
+7270,Nevada,37.4,2021,Millions of hours,"2,181.240"
+7280,New Hampshire,35.4,2021,Millions of hours,"1,013.370"
+7290,New Jersey,38.3,2021,Millions of hours,"6,008.526"
+7300,New Mexico,33.2,2021,Millions of hours,"1,135.334"
+7310,New York,34.6,2021,Millions of hours,"12,983.873"
+7320,North Carolina,36.9,2021,Millions of hours,"7,022.740"
+7330,North Dakota,35.8,2021,Millions of hours,588.569
+7340,Ohio,37.2,2021,Millions of hours,"8,066.975"
+7350,Oklahoma,40.4,2021,Millions of hours,"2,448.784"
+7360,Oregon,27.7,2021,Millions of hours,"2,829.149"
+7370,Pennsylvania,38.3,2021,Millions of hours,"8,865.271"
+7380,Rhode Island,34.7,2021,Millions of hours,726.876
+7390,South Carolina,37.2,2021,Millions of hours,"3,192.539"
+7400,South Dakota,32.7,2021,Millions of hours,653.047
+7410,Tennessee,35.1,2021,Millions of hours,"4,977.603"
+7420,Texas,36.3,2021,Millions of hours,"20,362.828"
+7430,Utah,42.2,2021,Millions of hours,"2,338.051"
+7440,Vermont,28.5,2021,Millions of hours,431.569
+7450,Virginia,30.8,2021,Millions of hours,"5,635.065"
+7460,Washington,25.6,2021,Millions of hours,"5,055.347"
+7470,West Virginia,34.4,2021,Millions of hours,975.420
+7480,Wisconsin,38.0,2021,Millions of hours,"4,342.956"
+7490,Wyoming,35.2,2021,Millions of hours,391.774
