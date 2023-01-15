@@ -1,0 +1,29 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "data": {"url": "https://raw.githubusercontent.com/dd20407/dd20407.github.io/main/AQI%20data%201998-2022(3).csv",
+    "format":{
+      "type":"csv"}},
+
+    "title": {
+        "text": "AQI, 1998-2022",
+        "fontSize":9,
+        "anchor": "start",
+        "color": "black"},
+
+        "height": 300,
+        "width": 500,
+        "config": {
+          "axis": {
+          "grid": true,
+          "gridColor": "limegreen"},
+          "background":"#67ff9a"},
+
+    "mark": "boxplot",
+    
+    
+    "encoding": {
+        "x": {"field": "year", "type": "temporal", "title": "Year"},
+        "y": {"field": "Median AQI", "type": "quantitative", "title": "AQI"},
+        "color":"darkgreen"
+  }}

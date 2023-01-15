@@ -10,7 +10,7 @@
         
 <title>Document</title>
 
-<link rel="stylesheet" href="portfolio.css">
+<link rel="stylesheet" href="project.css">
 
      <!--The next three lines allow the Vega embed-->
      <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
@@ -35,13 +35,46 @@
     </div>
 
     <div class="content">
-        <H3>To be added</H3>
-
-        
+        <H3>Air quality and its impact on productivity</H3>
+        <p>The aim of this project is to investigate the relationship between air quality and labour productivity. Specifically, I will be analysing data on the air quality index in US states against various markers for productivity in order to understand how changes in air quality may affect the productivity.
+            The issue of global warming is ever present, and its global consequences are potentially devastating, though I want to look at the smaller scale repercussions of air pollution. Air pollution has been linked to a range of health problems, including respiratory and cardiovascular diseases, and is a leading cause of premature death (Fuller et al. 2022). Poor air quality can also negatively impact worker productivity, leading to increased absenteeism (due to illness) or decreased productivity while at work (Laurent et al. 2021).
+            By analysing data on air pollution levels and worker productivity, I hope to gain a better understanding of this relationship.</p>
             <div class="map" id="Chart20"></div>
+        <p>I chose the US as the basis for my research, as the economic and cultural differences between states are smaller than for different countries, while there is still enough variation to allow for analysis. Above is a choropleth map showing the median Air Quality Index (AQI) by state from 1998 to 2022. I collected this data from the United States Environmental Protection Agency. The data cleaning process on Colab is linked below. I used automation to import the files from my github repository, and then again to combine them. The data was organised and I had no major issues cleaning it, though combining the data for each year was difficult. 
+            Initially it can be seen that the East and Gulf coast states, as well as California, display the highest AQI values, while the Rocky Mountain, Midwest, and northern West coast states have the lowest. This is likely due to differing population densities. Over time though, there is less variation as AQI becomes more uniform across the country.  </p>
+        <div>
+            <a class="buttons" href="https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual">Data source</a>
+            <a class="buttons" href="https://colab.research.google.com/drive/1Z65fIIlhRFt2B-x8MjTIqVFVZ3XDMuJh">Cleaning</a>
+        </div>
+        
+        <div class="map" id="Chart21"></div>
+        <p>In order to analyse how AQI changed over time, I created a boxplot showing the country-wide variation in AQI. The results are consistent with what was shown by the choropleth map; initially there is large variation between states, which gradually decreases as the states become more uniform. There are still some outliers, but it is clear that there is far less spread across the states. It is important to note that there are no major trends in the data over time, though average AQI in the 2010s seems to be slightly lower than in the 2000s.</p>
+
+        <div>
+            <div class="chart" id="Chart22"></div>
+            <div class="chart" id="Chart23"></div>
+            <div class="chart" id="Chart24"></div>
+            <div class="chart" id="Chart25"></div>
+        </div>
+
+        <p>Finally, I wanted to see how varying AQI levels affected productivity. I used four different proxies: labour productivity, worker output, hours worked, and employment. To do this I used the data on AQI mentioned previously, as well as data from the US Bureau of Labor Statistics. I also used the US Census Bureau’s API to collect annual data on population by state so I could calculate per capita values. The data given by the API was in list format, and a ran into a lot of issues trying to merge it with the other two data sets. The data was in list form, so I had to convert it to a dictionary to make a dataframe so I could merge it with the rest of the data. The identifying dates and states were given by a code so I had to manually rename them. I also had a lot of issues with splitting the data. I tried to create separate dataframes for them using a loop, and though they seemed to be defined (would give an output when I used df.head), if I tried to perform any operations with them I got an error stating they were undefined. To get around this I converted each of them to csv files, then wrote these csv files to separate dataframes.</p>
+        <p>The resulting data can be seen above. I was extremely surprised to see that despite all four measures displaying a negative correlation, the R-squared values were tiny, indicating the variance in each indicator is very unlikely to be explainable by the AQI. I had expected much higher statistical dependence on AQI levels. 
+            In conclusion, the small R-squared values indicate almost no evidence for a relationship between air pollution and productivity in this data set. I think this is likely to be due to the lack of variation in AQI between states, as an AQI of about 50 is still considered good. It may still be possible that there is a relationship however, and if this research is continued, it may be better to use data sets containing countries with greater variations in air quality, as the variation here is not sufficient to draw conclusions. It would be important however to control for other factors, as productivity is also likely to show greater variation between countries with more varied air quality due to other endogenous variables. A differences-in-differences approach may aid with this.
+            </p>
+        <div>
+            <a class="buttons" href="https://www.bls.gov/productivity/tables/home.htm">Productivity data source</a>
+            <a class="buttons" href="https://www.census.gov/data/developers/data-sets/popest-popproj/popest.Vintage_2019.html#list-tab-2014455046">Population api</a>
+            <a class="buttons" href="https://colab.research.google.com/drive/1X2Lcf-PDqVd93DCyay3xDuUt0YTNyYGO#scrollTo=ukLUx_TnhBy1">Labour data cleaning</a>
+            <a class="buttons" href="https://colab.research.google.com/drive/1wB_fk5dGV3OjpnczRivXwR2ZaC0vG_OH#scrollTo=Iu6SvxCZLcwe">Process</a>
+        </div>
+        <h4>References/Sources</h4>
+        <h6>Fuller, R. et al. (2022), Pollution and health: a progress update, Lancet Planet Health  Volume 6, Issue 6</h6>
+        <h6>Laurent, J. et al. (2021), Associations between acute exposures to PM2.5 and carbon dioxide indoors and cognitive function in office workers: a multicountry longitudinal prospective observational study, Environmental Research Letters, Volume 16, Number 9</h6>
+        <h6>US geojson file: https://raw.githubusercontent.com/jgoodall/us-maps/master/geojson/state.geo.json</h6>
+        <h6>AQI data: https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual</h6>
+        <h6>Productivity data: https://www.bls.gov/productivity/tables/home.htm</h6>
+        <h6>Population API (2019 population estimates) https://www.census.gov/data/developers/data-sets/popest-popproj/popest.Vintage_2019.html#list-tab-2014455046</h6>
     </div>
-
-
 
 
 </body>
@@ -49,10 +82,20 @@
 <script>
 
 var myChart20 = "chart20.json";
+var myChart22 = "chart22.json";
+var myChart23 = "chart23.json";
+var myChart24 = "chart24.json";
+var myChart25 = "chart25.json";
+var myChart21 = "chart21.json";
 
 
 // Embed charts:
 vegaEmbed('#Chart20', myChart20);
+vegaEmbed('#Chart22', myChart22);
+vegaEmbed('#Chart23', myChart23);
+vegaEmbed('#Chart24', myChart24);
+vegaEmbed('#Chart25', myChart25);
+vegaEmbed('#Chart21', myChart21);
 
 </script>
 

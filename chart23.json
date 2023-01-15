@@ -1,0 +1,75 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "data": {"url": "https://raw.githubusercontent.com/dd20407/dd20407.github.io/main/data%20Output%20per%20worker.csv"},
+    
+
+    "title": {
+        "text": "AQI and Output per worker",
+        "fontSize":10,
+        "anchor": "start",
+        "color": "black"},
+
+        "height": 300,
+        "width": 300,
+        "config": {
+            "axis": {
+            "grid": true,
+            "gridColor": "limegreen"},
+            "background":"#67ff9a"
+  },
+
+
+    "layer":[
+    {"mark": {
+        "type":"point",
+        "filled":true,
+        "color": "darkgreen"
+    },
+     "encoding": {
+      "x": {"field": "Median AQI", "type": "quantitative","scale": {"domain": [15,55]},"title":"AQI"},
+      "y": {"field": "Value","type":"quantitative", "scale": {"domain": [80,120]},"title":"Output per worker"},
+        "tooltip":[
+            {"field":"State", "type": "nominal","title":"State"},
+            {"field":"Year", "type": "nominal","title":"Year"},
+            {"field":"Median AQI", "type": "nominal","title":"AQI"},
+            {"field":"Value", "type": "nominal","title":"Output"}
+
+        ]
+
+    }},
+
+    {"mark":{
+        "type":"line",
+        "color":"black"
+    },
+    "transform": [{"regression": "Value", "on": "Median AQI"}],
+    "encoding": {
+        "x": {
+          "field": "Median AQI",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Value",
+          "type": "quantitative"
+        }
+      }},
+      {"transform": [
+        {
+          "regression": "Value",
+          "on": "Median AQI",
+          "params": true
+        },
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "black",
+        "x": "width",
+        "align": "right",
+        "y": -5
+      },
+      "encoding": {
+        "text": {"type": "nominal", "field": "R2"}}}
+]
+}

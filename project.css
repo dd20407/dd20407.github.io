@@ -40,26 +40,10 @@ body {
 }
 
 
-.chart{
-    overflow:auto;
-    background-color: white;
-    width: auto;
-    border-style:solid;
-    border-color: #000000;
-    margin:20px;
-    border-width: 5px;
-    border-radius: 8px;
-}
-
-.chart:hover{
-  transform: scale(1.1);
-  transition: transform 0.5s;
-}
-
 
 .map{
   overflow:auto;
-  background-color: white;
+  background-color: #67ff9a;
   width: auto;
   border-style:solid;
   border-color: #000000;
@@ -67,6 +51,18 @@ body {
   border-width: 5px;
   border-radius: 8px;
 }
+
+.chart{
+  background-color: #67ff9a;
+  overflow:auto;
+  width: auto;
+  border-style:solid;
+  border-color: #000000;
+  border-width: 2px;
+  margin:20px;
+  border-radius: 8px;
+}
+
 
 .title{
    color:black;
