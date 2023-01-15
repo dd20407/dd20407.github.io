@@ -1,0 +1,501 @@
+,State,Median AQI,Year,Measure,Value,Population
+0,Alabama,46.2,2010,Output per worker,97.088,4785437
+1,Alaska,19.8,2010,Output per worker,96.901,713910
+2,Arizona,42.9,2010,Output per worker,96.193,6407172
+3,Arkansas,43.7,2010,Output per worker,99.136,2921964
+4,California,45.3,2010,Output per worker,98.467,37319502
+5,Colorado,36.5,2010,Output per worker,99.402,5047349
+6,Connecticut,39.8,2010,Output per worker,103.619,3579114
+7,Delaware,46.7,2010,Output per worker,99.113,899593
+8,Florida,40.4,2010,Output per worker,101.953,18845537
+9,Georgia,46.3,2010,Output per worker,99.174,9711881
+10,Hawaii,40.3,2010,Output per worker,99.171,1363963
+11,Idaho,28.2,2010,Output per worker,102.087,1570746
+12,Illinois,40.2,2010,Output per worker,97.27,12840503
+13,Indiana,47.5,2010,Output per worker,101.602,6490432
+14,Iowa,39.4,2010,Output per worker,96.544,3050745
+15,Kansas,33.4,2010,Output per worker,96.492,2858190
+16,Kentucky,43.8,2010,Output per worker,98.143,4348181
+17,Louisiana,42.2,2010,Output per worker,109.083,4544532
+18,Maine,34.1,2010,Output per worker,101.623,1327629
+19,Maryland,46.4,2010,Output per worker,100.322,5788645
+20,Massachusetts,38.8,2010,Output per worker,98.594,6566307
+21,Michigan,38.3,2010,Output per worker,97.843,9877510
+22,Minnesota,33.1,2010,Output per worker,98.918,5310828
+23,Mississippi,44.3,2010,Output per worker,97.493,2970548
+24,Missouri,43.9,2010,Output per worker,100.778,5995974
+25,Montana,27.9,2010,Output per worker,98.929,990697
+26,Nebraska,29.8,2010,Output per worker,95.866,1829542
+27,Nevada,32.6,2010,Output per worker,101.46,2702405
+28,New Hampshire,38.3,2010,Output per worker,99.568,1316762
+29,New Jersey,40.8,2010,Output per worker,100.283,8799446
+30,New Mexico,30.3,2010,Output per worker,100.459,2064552
+31,New York,37.1,2010,Output per worker,98.085,19399878
+32,North Carolina,44.1,2010,Output per worker,101.065,9574323
+33,North Dakota,34.4,2010,Output per worker,80.819,674715
+34,Ohio,46.4,2010,Output per worker,98.788,11539336
+35,Oklahoma,40.2,2010,Output per worker,93.425,3759944
+36,Oregon,25.4,2010,Output per worker,99.299,3837491
+37,Pennsylvania,45.2,2010,Output per worker,97.397,12711160
+38,Rhode Island,39.3,2010,Output per worker,99.804,1053959
+39,South Carolina,40.8,2010,Output per worker,98.56,4635649
+40,South Dakota,34.7,2010,Output per worker,93.184,816166
+41,Tennessee,41.3,2010,Output per worker,95.997,6355311
+42,Texas,38.2,2010,Output per worker,97.199,25241971
+43,Utah,41.6,2010,Output per worker,98.957,2775332
+44,Vermont,34.3,2010,Output per worker,99.613,625879
+45,Virginia,36.1,2010,Output per worker,101.218,8023699
+46,Washington,23.8,2010,Output per worker,97.05,6742830
+47,West Virginia,43.3,2010,Output per worker,101.336,1854239
+48,Wisconsin,37.9,2010,Output per worker,96.936,5690475
+49,Wyoming,32.1,2010,Output per worker,107.71,564487
+50,Alabama,42.8,2011,Output per worker,99.537,4799069
+51,Alaska,22.4,2011,Output per worker,94.559,722128
+52,Arizona,45.8,2011,Output per worker,99.081,6472643
+53,Arkansas,42.8,2011,Output per worker,99.682,2940667
+54,California,49.4,2011,Output per worker,99.195,37638369
+55,Colorado,38.8,2011,Output per worker,99.166,5121108
+56,Connecticut,39.5,2011,Output per worker,99.922,3588283
+57,Delaware,44.0,2011,Output per worker,102.38,907381
+58,Florida,38.7,2011,Output per worker,101.25,19053237
+59,Georgia,46.7,2011,Output per worker,100.062,9802431
+60,Hawaii,32.2,2011,Output per worker,100.939,1379329
+61,Idaho,25.4,2011,Output per worker,100.962,1583910
+62,Illinois,40.7,2011,Output per worker,98.5,12867454
+63,Indiana,45.7,2011,Output per worker,100.03,6516528
+64,Iowa,41.2,2011,Output per worker,96.076,3066336
+65,Kansas,35.4,2011,Output per worker,98.15,2869225
+66,Kentucky,42.2,2011,Output per worker,98.717,4369821
+67,Louisiana,42.3,2011,Output per worker,102.184,4575625
+68,Maine,33.1,2011,Output per worker,101.135,1328284
+69,Maryland,45.3,2011,Output per worker,100.567,5839419
+70,Massachusetts,40.1,2011,Output per worker,98.447,6613583
+71,Michigan,37.7,2011,Output per worker,98.583,9882412
+72,Minnesota,34.0,2011,Output per worker,100.157,5346143
+73,Mississippi,43.4,2011,Output per worker,98.511,2978731
+74,Missouri,45.0,2011,Output per worker,98.64,6010275
+75,Montana,27.5,2011,Output per worker,101.077,997316
+76,Nebraska,30.3,2011,Output per worker,99.573,1840672
+77,Nevada,33.0,2011,Output per worker,101.804,2712730
+78,New Hampshire,39.1,2011,Output per worker,99.399,1320202
+79,New Jersey,41.4,2011,Output per worker,98.824,8828117
+80,New Mexico,32.6,2011,Output per worker,98.943,2080450
+81,New York,37.5,2011,Output per worker,96.869,19499241
+82,North Carolina,43.7,2011,Output per worker,100.377,9657592
+83,North Dakota,36.6,2011,Output per worker,88.439,685225
+84,Ohio,42.6,2011,Output per worker,101.199,11544663
+85,Oklahoma,45.3,2011,Output per worker,96.821,3788379
+86,Oregon,25.8,2011,Output per worker,100.676,3872036
+87,Pennsylvania,44.4,2011,Output per worker,98.314,12745815
+88,Rhode Island,40.0,2011,Output per worker,99.363,1053649
+89,South Carolina,42.9,2011,Output per worker,100.861,4671994
+90,South Dakota,33.9,2011,Output per worker,96.606,823579
+91,Tennessee,40.2,2011,Output per worker,97.107,6399291
+92,Texas,41.5,2011,Output per worker,98.477,25645629
+93,Utah,41.8,2011,Output per worker,101.668,2814384
+94,Vermont,31.0,2011,Output per worker,99.907,627049
+95,Virginia,33.3,2011,Output per worker,101.368,8101155
+96,Washington,24.3,2011,Output per worker,98.35,6826627
+97,West Virginia,39.4,2011,Output per worker,102.135,1856301
+98,Wisconsin,37.4,2011,Output per worker,98.47,5705288
+99,Wyoming,34.2,2011,Output per worker,104.78,567299
+100,Alabama,40.1,2012,Output per worker,100.0,4815588
+101,Alaska,22.0,2012,Output per worker,100.0,730443
+102,Arizona,46.6,2012,Output per worker,100.0,6554978
+103,Arkansas,40.9,2012,Output per worker,100.0,2952164
+104,California,48.7,2012,Output per worker,100.0,37948800
+105,Colorado,40.3,2012,Output per worker,100.0,5192647
+106,Connecticut,42.4,2012,Output per worker,100.0,3594547
+107,Delaware,43.3,2012,Output per worker,100.0,915179
+108,Florida,36.9,2012,Output per worker,100.0,19297822
+109,Georgia,43.0,2012,Output per worker,100.0,9901430
+110,Hawaii,36.2,2012,Output per worker,100.0,1394804
+111,Idaho,24.6,2012,Output per worker,100.0,1595324
+112,Illinois,41.0,2012,Output per worker,100.0,12882510
+113,Indiana,45.6,2012,Output per worker,100.0,6537703
+114,Iowa,42.4,2012,Output per worker,100.0,3076190
+115,Kansas,34.8,2012,Output per worker,100.0,2885257
+116,Kentucky,42.4,2012,Output per worker,100.0,4386346
+117,Louisiana,41.3,2012,Output per worker,100.0,4600972
+118,Maine,34.0,2012,Output per worker,100.0,1327729
+119,Maryland,45.3,2012,Output per worker,100.0,5886992
+120,Massachusetts,38.3,2012,Output per worker,100.0,6663005
+121,Michigan,40.2,2012,Output per worker,100.0,9897145
+122,Minnesota,33.4,2012,Output per worker,100.0,5376643
+123,Mississippi,40.5,2012,Output per worker,100.0,2983816
+124,Missouri,45.2,2012,Output per worker,100.0,6024367
+125,Montana,28.4,2012,Output per worker,100.0,1003783
+126,Nebraska,33.4,2012,Output per worker,100.0,1853303
+127,Nevada,36.2,2012,Output per worker,100.0,2743996
+128,New Hampshire,38.1,2012,Output per worker,100.0,1324232
+129,New Jersey,40.6,2012,Output per worker,100.0,8844942
+130,New Mexico,32.8,2012,Output per worker,100.0,2087309
+131,New York,36.1,2012,Output per worker,100.0,19572932
+132,North Carolina,40.3,2012,Output per worker,100.0,9749476
+133,North Dakota,36.5,2012,Output per worker,100.0,701176
+134,Ohio,44.8,2012,Output per worker,100.0,11548923
+135,Oklahoma,43.2,2012,Output per worker,100.0,3818814
+136,Oregon,27.4,2012,Output per worker,100.0,3899001
+137,Pennsylvania,44.5,2012,Output per worker,100.0,12767118
+138,Rhode Island,39.0,2012,Output per worker,100.0,1054621
+139,South Carolina,39.6,2012,Output per worker,100.0,4717354
+140,South Dakota,38.9,2012,Output per worker,100.0,833566
+141,Tennessee,40.2,2012,Output per worker,100.0,6453898
+142,Texas,40.2,2012,Output per worker,100.0,26084481
+143,Utah,44.1,2012,Output per worker,100.0,2853375
+144,Vermont,30.0,2012,Output per worker,100.0,626090
+145,Virginia,32.5,2012,Output per worker,100.0,8185080
+146,Washington,26.3,2012,Output per worker,100.0,6897058
+147,West Virginia,39.9,2012,Output per worker,100.0,1856872
+148,Wisconsin,37.3,2012,Output per worker,100.0,5719960
+149,Wyoming,36.7,2012,Output per worker,100.0,576305
+150,Alabama,37.4,2013,Output per worker,99.883,4830081
+151,Alaska,20.4,2013,Output per worker,92.604,737068
+152,Arizona,44.3,2013,Output per worker,97.204,6632764
+153,Arkansas,37.7,2013,Output per worker,102.155,2959400
+154,California,49.4,2013,Output per worker,100.626,38260787
+155,Colorado,39.6,2013,Output per worker,101.33,5269035
+156,Connecticut,44.0,2013,Output per worker,97.859,3594841
+157,Delaware,42.0,2013,Output per worker,93.933,923576
+158,Florida,35.0,2013,Output per worker,99.116,19545621
+159,Georgia,38.4,2013,Output per worker,101.404,9972479
+160,Hawaii,32.2,2013,Output per worker,100.929,1408243
+161,Idaho,25.5,2013,Output per worker,102.203,1611206
+162,Illinois,38.9,2013,Output per worker,98.36,12895129
+163,Indiana,43.0,2013,Output per worker,99.106,6568713
+164,Iowa,40.8,2013,Output per worker,97.236,3092997
+165,Kansas,32.4,2013,Output per worker,97.645,2893212
+166,Kentucky,38.5,2013,Output per worker,100.852,4404659
+167,Louisiana,38.6,2013,Output per worker,94.494,4624527
+168,Maine,34.7,2013,Output per worker,98.39,1328009
+169,Maryland,42.1,2013,Output per worker,99.825,5923188
+170,Massachusetts,38.3,2013,Output per worker,100.37,6713315
+171,Michigan,37.9,2013,Output per worker,99.376,9913065
+172,Minnesota,33.9,2013,Output per worker,101.93,5413479
+173,Mississippi,37.3,2013,Output per worker,97.693,2988711
+174,Missouri,41.9,2013,Output per worker,99.995,6040715
+175,Montana,27.7,2013,Output per worker,101.03,1013569
+176,Nebraska,27.0,2013,Output per worker,98.903,1865279
+177,Nevada,37.5,2013,Output per worker,98.604,2775970
+178,New Hampshire,37.9,2013,Output per worker,100.272,1326622
+179,New Jersey,39.1,2013,Output per worker,101.647,8856972
+180,New Mexico,33.5,2013,Output per worker,97.61,2092273
+181,New York,35.4,2013,Output per worker,97.447,19624447
+182,North Carolina,37.2,2013,Output per worker,100.583,9843336
+183,North Dakota,36.7,2013,Output per worker,102.848,722036
+184,Ohio,40.2,2013,Output per worker,101.29,11576684
+185,Oklahoma,39.3,2013,Output per worker,100.042,3853214
+186,Oregon,31.6,2013,Output per worker,99.51,3922468
+187,Pennsylvania,42.5,2013,Output per worker,101.297,12776309
+188,Rhode Island,39.3,2013,Output per worker,99.354,1055081
+189,South Carolina,35.8,2013,Output per worker,99.275,4764080
+190,South Dakota,37.4,2013,Output per worker,97.787,842316
+191,Tennessee,38.4,2013,Output per worker,98.268,6494340
+192,Texas,38.6,2013,Output per worker,102.465,26480266
+193,Utah,44.7,2013,Output per worker,99.432,2897640
+194,Vermont,30.2,2013,Output per worker,96.55,626210
+195,Virginia,31.1,2013,Output per worker,100.646,8252427
+196,Washington,27.4,2013,Output per worker,102.216,6963985
+197,West Virginia,36.0,2013,Output per worker,100.007,1853914
+198,Wisconsin,35.4,2013,Output per worker,99.196,5736754
+199,Wyoming,36.7,2013,Output per worker,98.722,582122
+200,Alabama,38.2,2014,Output per worker,98.617,4841799
+201,Alaska,23.4,2014,Output per worker,90.157,736283
+202,Arizona,43.6,2014,Output per worker,97.901,6730413
+203,Arkansas,36.2,2014,Output per worker,103.247,2967392
+204,California,48.9,2014,Output per worker,101.544,38596972
+205,Colorado,36.5,2014,Output per worker,103.482,5350101
+206,Connecticut,41.9,2014,Output per worker,96.446,3594524
+207,Delaware,44.7,2014,Output per worker,101.406,932487
+208,Florida,36.5,2014,Output per worker,99.074,19845911
+209,Georgia,40.9,2014,Output per worker,101.709,10067278
+210,Hawaii,30.2,2014,Output per worker,99.136,1414538
+211,Idaho,26.6,2014,Output per worker,103.317,1631112
+212,Illinois,39.0,2014,Output per worker,99.914,12884493
+213,Indiana,42.4,2014,Output per worker,101.217,6593644
+214,Iowa,38.5,2014,Output per worker,103.64,3109350
+215,Kansas,32.3,2014,Output per worker,102.285,2900475
+216,Kentucky,39.0,2014,Output per worker,99.935,4414349
+217,Louisiana,38.2,2014,Output per worker,96.623,4644013
+218,Maine,34.4,2014,Output per worker,100.446,1330513
+219,Maryland,43.1,2014,Output per worker,101.738,5957283
+220,Massachusetts,38.5,2014,Output per worker,100.068,6762596
+221,Michigan,38.5,2014,Output per worker,100.022,9929848
+222,Minnesota,31.8,2014,Output per worker,103.932,5451079
+223,Mississippi,38.2,2014,Output per worker,97.538,2990468
+224,Missouri,40.2,2014,Output per worker,99.454,6056202
+225,Montana,27.1,2014,Output per worker,101.785,1021869
+226,Nebraska,25.5,2014,Output per worker,103.207,1879321
+227,Nevada,41.0,2014,Output per worker,95.832,2817628
+228,New Hampshire,37.6,2014,Output per worker,101.774,1333341
+229,New Jersey,39.6,2014,Output per worker,99.967,8864525
+230,New Mexico,33.1,2014,Output per worker,100.931,2089568
+231,New York,35.2,2014,Output per worker,97.861,19651049
+232,North Carolina,39.8,2014,Output per worker,101.465,9932887
+233,North Dakota,34.9,2014,Output per worker,110.565,737401
+234,Ohio,40.4,2014,Output per worker,104.263,11602700
+235,Oklahoma,39.0,2014,Output per worker,105.724,3878187
+236,Oregon,27.7,2014,Output per worker,99.823,3963244
+237,Pennsylvania,42.8,2014,Output per worker,102.714,12788313
+238,Rhode Island,37.0,2014,Output per worker,98.158,1055936
+239,South Carolina,38.1,2014,Output per worker,100.233,4823617
+240,South Dakota,33.2,2014,Output per worker,101.008,849129
+241,Tennessee,38.1,2014,Output per worker,98.289,6541223
+242,Texas,37.7,2014,Output per worker,102.199,26964333
+243,Utah,41.4,2014,Output per worker,101.091,2936879
+244,Vermont,29.0,2014,Output per worker,98.541,625214
+245,Virginia,31.8,2014,Output per worker,99.408,8310993
+246,Washington,25.2,2014,Output per worker,104.458,7054655
+247,West Virginia,35.3,2014,Output per worker,101.515,1849489
+248,Wisconsin,38.4,2014,Output per worker,100.641,5751525
+249,Wyoming,35.1,2014,Output per worker,96.994,582531
+250,Alabama,39.3,2015,Output per worker,97.956,4852347
+251,Alaska,23.1,2015,Output per worker,93.023,737498
+252,Arizona,40.5,2015,Output per worker,97.723,6829676
+253,Arkansas,35.1,2015,Output per worker,100.947,2978048
+254,California,49.4,2015,Output per worker,104.404,38918045
+255,Colorado,35.5,2015,Output per worker,105.162,5450623
+256,Connecticut,41.0,2015,Output per worker,99.079,3587122
+257,Delaware,43.7,2015,Output per worker,103.102,941252
+258,Florida,34.7,2015,Output per worker,100.449,20209042
+259,Georgia,37.8,2015,Output per worker,103.527,10178447
+260,Hawaii,32.8,2015,Output per worker,101.593,1422052
+261,Idaho,24.8,2015,Output per worker,100.529,1651059
+262,Illinois,39.5,2015,Output per worker,100.354,12858913
+263,Indiana,40.0,2015,Output per worker,97.959,6608422
+264,Iowa,37.3,2015,Output per worker,105.036,3120960
+265,Kansas,32.2,2015,Output per worker,103.549,2909011
+266,Kentucky,39.3,2015,Output per worker,98.893,4425976
+267,Louisiana,36.7,2015,Output per worker,95.578,4664628
+268,Maine,33.8,2015,Output per worker,98.153,1328262
+269,Maryland,43.4,2015,Output per worker,104.055,5985562
+270,Massachusetts,36.2,2015,Output per worker,103.648,6794228
+271,Michigan,38.4,2015,Output per worker,99.537,9931715
+272,Minnesota,31.4,2015,Output per worker,103.3,5482032
+273,Mississippi,35.6,2015,Output per worker,96.374,2988471
+274,Missouri,39.0,2015,Output per worker,98.497,6071732
+275,Montana,28.5,2015,Output per worker,104.017,1030475
+276,Nebraska,26.0,2015,Output per worker,105.552,1891277
+277,Nevada,39.6,2015,Output per worker,95.72,2866939
+278,New Hampshire,37.4,2015,Output per worker,103.987,1336350
+279,New Jersey,39.6,2015,Output per worker,101.104,8867949
+280,New Mexico,30.2,2015,Output per worker,102.678,2089291
+281,New York,35.7,2015,Output per worker,97.662,19654666
+282,North Carolina,38.8,2015,Output per worker,101.374,10031646
+283,North Dakota,32.8,2015,Output per worker,108.845,754066
+284,Ohio,39.1,2015,Output per worker,103.52,11617527
+285,Oklahoma,35.7,2015,Output per worker,111.122,3909500
+286,Oregon,28.9,2015,Output per worker,102.575,4015792
+287,Pennsylvania,42.6,2015,Output per worker,104.195,12784826
+288,Rhode Island,39.7,2015,Output per worker,99.344,1056065
+289,South Carolina,35.9,2015,Output per worker,100.207,4891938
+290,South Dakota,33.3,2015,Output per worker,100.682,853988
+291,Tennessee,36.3,2015,Output per worker,100.324,6591170
+292,Texas,37.1,2015,Output per worker,104.903,27470056
+293,Utah,40.5,2015,Output per worker,101.572,2981835
+294,Vermont,29.0,2015,Output per worker,97.611,625216
+295,Virginia,32.2,2015,Output per worker,100.607,8361808
+296,Washington,27.2,2015,Output per worker,106.054,7163657
+297,West Virginia,35.7,2015,Output per worker,102.012,1842050
+298,Wisconsin,37.6,2015,Output per worker,102.099,5760940
+299,Wyoming,34.8,2015,Output per worker,102.211,585613
+300,Alabama,39.4,2016,Output per worker,98.047,4863525
+301,Alaska,24.1,2016,Output per worker,92.652,741456
+302,Arizona,42.5,2016,Output per worker,97.743,6941072
+303,Arkansas,36.4,2016,Output per worker,99.775,2989918
+304,California,46.4,2016,Output per worker,104.717,39167117
+305,Colorado,35.2,2016,Output per worker,104.78,5539215
+306,Connecticut,40.2,2016,Output per worker,97.76,3578141
+307,Delaware,41.3,2016,Output per worker,94.489,948921
+308,Florida,37.2,2016,Output per worker,100.529,20613477
+309,Georgia,38.5,2016,Output per worker,104.272,10301890
+310,Hawaii,31.8,2016,Output per worker,102.175,1427559
+311,Idaho,24.6,2016,Output per worker,101.434,1682380
+312,Illinois,38.4,2016,Output per worker,99.404,12820527
+313,Indiana,37.8,2016,Output per worker,98.862,6634304
+314,Iowa,35.6,2016,Output per worker,103.725,3131371
+315,Kansas,31.9,2016,Output per worker,107.82,2910844
+316,Kentucky,39.8,2016,Output per worker,98.305,4438182
+317,Louisiana,37.2,2016,Output per worker,94.217,4678135
+318,Maine,32.1,2016,Output per worker,98.69,1331317
+319,Maryland,41.2,2016,Output per worker,107.331,6003323
+320,Massachusetts,35.8,2016,Output per worker,103.625,6823608
+321,Michigan,36.7,2016,Output per worker,99.914,9950571
+322,Minnesota,28.6,2016,Output per worker,104.242,5522744
+323,Mississippi,36.9,2016,Output per worker,96.559,2987938
+324,Missouri,37.6,2016,Output per worker,97.178,6087135
+325,Montana,26.7,2016,Output per worker,98.999,1040859
+326,Nebraska,25.4,2016,Output per worker,105.365,1905616
+327,Nevada,36.8,2016,Output per worker,95.774,2917563
+328,New Hampshire,36.0,2016,Output per worker,105.642,1342307
+329,New Jersey,39.6,2016,Output per worker,100.557,8870827
+330,New Mexico,30.6,2016,Output per worker,100.439,2091630
+331,New York,34.8,2016,Output per worker,98.943,19633428
+332,North Carolina,39.1,2016,Output per worker,101.002,10154788
+333,North Dakota,29.9,2016,Output per worker,104.271,754434
+334,Ohio,38.3,2016,Output per worker,104.529,11634370
+335,Oklahoma,36.2,2016,Output per worker,108.426,3926331
+336,Oregon,24.6,2016,Output per worker,103.265,4089976
+337,Pennsylvania,41.4,2016,Output per worker,104.311,12782275
+338,Rhode Island,37.0,2016,Output per worker,99.664,1056770
+339,South Carolina,37.3,2016,Output per worker,101.205,4957968
+340,South Dakota,30.9,2016,Output per worker,100.197,862996
+341,Tennessee,36.6,2016,Output per worker,99.64,6646010
+342,Texas,36.2,2016,Output per worker,104.49,27914410
+343,Utah,39.5,2016,Output per worker,101.544,3041868
+344,Vermont,29.0,2016,Output per worker,99.351,623657
+345,Virginia,30.0,2016,Output per worker,100.693,8410106
+346,Washington,24.1,2016,Output per worker,106.815,7294771
+347,West Virginia,35.4,2016,Output per worker,103.842,1831023
+348,Wisconsin,36.0,2016,Output per worker,100.831,5772628
+349,Wyoming,37.3,2016,Output per worker,98.926,584215
+350,Alabama,38.4,2017,Output per worker,98.7,4874486
+351,Alaska,22.0,2017,Output per worker,94.148,739700
+352,Arizona,44.2,2017,Output per worker,99.998,7044008
+353,Arkansas,37.1,2017,Output per worker,99.514,3001345
+354,California,49.0,2017,Output per worker,108.42,39358497
+355,Colorado,36.4,2017,Output per worker,105.99,5611885
+356,Connecticut,38.2,2017,Output per worker,101.803,3573297
+357,Delaware,41.3,2017,Output per worker,89.862,956823
+358,Florida,37.0,2017,Output per worker,102.992,20963613
+359,Georgia,37.2,2017,Output per worker,105.372,10410330
+360,Hawaii,28.8,2017,Output per worker,105.547,1424393
+361,Idaho,28.4,2017,Output per worker,101.805,1717715
+362,Illinois,40.8,2017,Output per worker,99.632,12778828
+363,Indiana,38.3,2017,Output per worker,99.735,6658078
+364,Iowa,36.8,2017,Output per worker,103.942,3141550
+365,Kansas,32.6,2017,Output per worker,109.108,2908718
+366,Kentucky,39.5,2017,Output per worker,98.793,4452268
+367,Louisiana,36.4,2017,Output per worker,95.813,4670560
+368,Maine,33.8,2017,Output per worker,100.817,1334612
+369,Maryland,40.9,2017,Output per worker,106.831,6023868
+370,Massachusetts,37.5,2017,Output per worker,103.916,6859789
+371,Michigan,36.6,2017,Output per worker,100.564,9973114
+372,Minnesota,31.6,2017,Output per worker,104.375,5566230
+373,Mississippi,35.8,2017,Output per worker,94.868,2988510
+374,Missouri,39.8,2017,Output per worker,97.731,6106670
+375,Montana,30.9,2017,Output per worker,104.42,1052482
+376,Nebraska,28.9,2017,Output per worker,108.001,1915947
+377,Nevada,38.1,2017,Output per worker,96.582,2969905
+378,New Hampshire,36.0,2017,Output per worker,105.798,1348787
+379,New Jersey,38.4,2017,Output per worker,99.998,8885525
+380,New Mexico,31.9,2017,Output per worker,98.561,2091784
+381,New York,34.4,2017,Output per worker,98.949,19589572
+382,North Carolina,38.9,2017,Output per worker,102.991,10268233
+383,North Dakota,33.0,2017,Output per worker,108.084,754942
+384,Ohio,37.5,2017,Output per worker,104.754,11659650
+385,Oklahoma,36.8,2017,Output per worker,108.634,3931316
+386,Oregon,28.7,2017,Output per worker,106.076,4143625
+387,Pennsylvania,41.5,2017,Output per worker,104.88,12787641
+388,Rhode Island,34.3,2017,Output per worker,98.194,1055673
+389,South Carolina,35.6,2017,Output per worker,102.077,5021268
+390,South Dakota,31.6,2017,Output per worker,99.95,872868
+391,Tennessee,36.8,2017,Output per worker,100.232,6708799
+392,Texas,37.2,2017,Output per worker,105.245,28295273
+393,Utah,44.2,2017,Output per worker,102.588,3101042
+394,Vermont,29.2,2017,Output per worker,100.025,624344
+395,Virginia,31.2,2017,Output per worker,100.59,8463587
+396,Washington,26.7,2017,Output per worker,109.025,7423362
+397,West Virginia,36.0,2017,Output per worker,108.021,1817004
+398,Wisconsin,37.0,2017,Output per worker,100.079,5790186
+399,Wyoming,38.6,2017,Output per worker,97.717,578931
+400,Alabama,36.8,2018,Output per worker,99.362,4887681
+401,Alaska,22.0,2018,Output per worker,90.986,735139
+402,Arizona,43.1,2018,Output per worker,101.116,7158024
+403,Arkansas,35.4,2018,Output per worker,100.552,3009733
+404,California,48.8,2018,Output per worker,111.093,39461588
+405,Colorado,39.1,2018,Output per worker,107.021,5691287
+406,Connecticut,37.6,2018,Output per worker,102.015,3571520
+407,Delaware,40.0,2018,Output per worker,89.396,965479
+408,Florida,34.8,2018,Output per worker,103.603,21244317
+409,Georgia,34.8,2018,Output per worker,107.572,10511131
+410,Hawaii,27.5,2018,Output per worker,107.385,1420593
+411,Idaho,27.0,2018,Output per worker,105.327,1750536
+412,Illinois,40.7,2018,Output per worker,101.352,12723071
+413,Indiana,36.3,2018,Output per worker,102.356,6695497
+414,Iowa,38.2,2018,Output per worker,105.482,3148618
+415,Kansas,32.6,2018,Output per worker,111.851,2911359
+416,Kentucky,38.3,2018,Output per worker,99.531,4461153
+417,Louisiana,35.0,2018,Output per worker,95.948,4659690
+418,Maine,35.0,2018,Output per worker,104.435,1339057
+419,Maryland,39.6,2018,Output per worker,106.072,6035802
+420,Massachusetts,36.9,2018,Output per worker,107.287,6882635
+421,Michigan,36.0,2018,Output per worker,101.839,9984072
+422,Minnesota,32.0,2018,Output per worker,107.114,5606249
+423,Mississippi,36.5,2018,Output per worker,93.87,2981020
+424,Missouri,38.0,2018,Output per worker,98.625,6121623
+425,Montana,29.5,2018,Output per worker,103.8,1060665
+426,Nebraska,28.0,2018,Output per worker,109.464,1925614
+427,Nevada,37.0,2018,Output per worker,97.123,3027341
+428,New Hampshire,36.9,2018,Output per worker,107.037,1353465
+429,New Jersey,38.4,2018,Output per worker,102.262,8886025
+430,New Mexico,33.2,2018,Output per worker,99.948,2092741
+431,New York,34.0,2018,Output per worker,99.98,19530351
+432,North Carolina,37.8,2018,Output per worker,102.594,10381615
+433,North Dakota,35.0,2018,Output per worker,110.962,758080
+434,Ohio,36.8,2018,Output per worker,105.386,11676341
+435,Oklahoma,37.5,2018,Output per worker,107.045,3940235
+436,Oregon,29.2,2018,Output per worker,108.661,4181886
+437,Pennsylvania,37.7,2018,Output per worker,104.197,12800922
+438,Rhode Island,35.0,2018,Output per worker,97.676,1058287
+439,South Carolina,33.7,2018,Output per worker,102.432,5084156
+440,South Dakota,32.1,2018,Output per worker,100.021,878698
+441,Tennessee,35.3,2018,Output per worker,99.645,6771631
+442,Texas,36.2,2018,Output per worker,106.888,28628666
+443,Utah,44.3,2018,Output per worker,106.239,3153550
+444,Vermont,29.8,2018,Output per worker,100.84,624358
+445,Virginia,30.2,2018,Output per worker,101.785,8501286
+446,Washington,25.7,2018,Output per worker,115.693,7523869
+447,West Virginia,33.7,2018,Output per worker,108.83,1804291
+448,Wisconsin,39.3,2018,Output per worker,102.201,5807406
+449,Wyoming,39.6,2018,Output per worker,98.144,577601
+450,Alabama,39.2,2019,Output per worker,99.467,4903185
+451,Alaska,19.2,2019,Output per worker,90.036,731545
+452,Arizona,41.8,2019,Output per worker,101.902,7278717
+453,Arkansas,36.2,2019,Output per worker,100.924,3017804
+454,California,43.8,2019,Output per worker,115.129,39512223
+455,Colorado,34.1,2019,Output per worker,110.143,5758736
+456,Connecticut,39.5,2019,Output per worker,103.457,3565287
+457,Delaware,42.3,2019,Output per worker,92.932,973764
+458,Florida,35.8,2019,Output per worker,105.138,21477737
+459,Georgia,38.6,2019,Output per worker,109.842,10617423
+460,Hawaii,17.8,2019,Output per worker,106.925,1415872
+461,Idaho,24.4,2019,Output per worker,106.393,1787065
+462,Illinois,41.5,2019,Output per worker,102.128,12671821
+463,Indiana,37.1,2019,Output per worker,101.891,6732219
+464,Iowa,34.4,2019,Output per worker,104.546,3155070
+465,Kansas,32.0,2019,Output per worker,112.079,2913314
+466,Kentucky,40.2,2019,Output per worker,102.085,4467673
+467,Louisiana,35.8,2019,Output per worker,96.316,4648794
+468,Maine,33.7,2019,Output per worker,106.624,1344212
+469,Maryland,40.6,2019,Output per worker,106.21,6045680
+470,Massachusetts,37.5,2019,Output per worker,108.899,6892503
+471,Michigan,34.8,2019,Output per worker,101.569,9986857
+472,Minnesota,29.5,2019,Output per worker,106.184,5639632
+473,Mississippi,38.6,2019,Output per worker,94.736,2976149
+474,Missouri,37.6,2019,Output per worker,98.491,6137428
+475,Montana,26.4,2019,Output per worker,103.222,1068778
+476,Nebraska,24.9,2019,Output per worker,111.102,1934408
+477,Nevada,34.0,2019,Output per worker,97.532,3080156
+478,New Hampshire,35.4,2019,Output per worker,109.136,1359711
+479,New Jersey,39.4,2019,Output per worker,103.637,8882190
+480,New Mexico,31.2,2019,Output per worker,105.236,2096829
+481,New York,34.7,2019,Output per worker,102.025,19453561
+482,North Carolina,38.9,2019,Output per worker,102.165,10488084
+483,North Dakota,32.7,2019,Output per worker,111.826,762062
+484,Ohio,37.5,2019,Output per worker,107.394,11689100
+485,Oklahoma,36.2,2019,Output per worker,109.927,3956971
+486,Oregon,26.7,2019,Output per worker,109.127,4217737
+487,Pennsylvania,38.4,2019,Output per worker,105.271,12801989
+488,Rhode Island,37.0,2019,Output per worker,98.199,1059361
+489,South Carolina,33.6,2019,Output per worker,102.91,5148714
+490,South Dakota,31.2,2019,Output per worker,100.295,884659
+491,Tennessee,36.2,2019,Output per worker,100.517,6829174
+492,Texas,38.0,2019,Output per worker,108.7,28995881
+493,Utah,42.2,2019,Output per worker,108.098,3205958
+494,Vermont,29.0,2019,Output per worker,102.844,623989
+495,Virginia,32.2,2019,Output per worker,103.657,8535519
+496,Washington,24.9,2019,Output per worker,117.426,7614893
+497,West Virginia,35.9,2019,Output per worker,108.903,1792147
+498,Wisconsin,36.2,2019,Output per worker,103.167,5822434
+499,Wyoming,38.8,2019,Output per worker,99.594,578759
